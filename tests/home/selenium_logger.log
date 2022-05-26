@@ -1,0 +1,296 @@
+05/19/2022 08:31:19 PM - SeleniumDriver - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/19/2022 08:31:21 PM - SeleniumDriver - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/19/2022 08:31:21 PM - SeleniumDriver - INFO: Element Found with locator: email
+05/19/2022 08:31:21 PM - SeleniumDriver - INFO: Sent Keys to element with locator: email  locatorType: id
+05/19/2022 08:31:21 PM - SeleniumDriver - INFO: Element Found with locator: password
+05/19/2022 08:31:21 PM - SeleniumDriver - INFO: Sent Keys to element with locator: password  locatorType: id
+05/19/2022 08:31:21 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type="submit"]
+05/19/2022 08:31:21 PM - SeleniumDriver - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/19/2022 08:51:06 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/19/2022 08:51:08 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/19/2022 08:51:08 PM - LoginPage - INFO: Element Found with locator: email
+05/19/2022 08:51:08 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/19/2022 08:51:08 PM - LoginPage - INFO: Element Found with locator: password
+05/19/2022 08:51:08 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/19/2022 08:51:08 PM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/19/2022 08:51:09 PM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/19/2022 11:18:43 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/19/2022 11:18:44 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/19/2022 11:18:44 PM - LoginPage - INFO: Element Found with locator: email
+05/19/2022 11:18:44 PM - LoginPage - INFO: Element Found with locator: password
+05/19/2022 11:18:44 PM - LoginPage - INFO: Element Found with locator: email
+05/19/2022 11:18:45 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/19/2022 11:18:45 PM - LoginPage - INFO: Element Found with locator: password
+05/19/2022 11:18:45 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/19/2022 11:18:45 PM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/19/2022 11:18:45 PM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/19/2022 11:18:45 PM - LoginPage - INFO: Element Found with locator: //span[text()="Your username or password is invalid. Please try again."]
+05/19/2022 11:18:45 PM - LoginPage - INFO: Element Found
+05/19/2022 11:18:48 PM - LoginPage - INFO: Element not found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/19/2022 11:18:48 PM - LoginPage - INFO: Cannot click on the element with: //a[@href='https://courses.letskodeit.com/login']    locator type: xpath
+05/19/2022 11:18:48 PM - LoginPage - INFO: Element Found with locator: email
+05/19/2022 11:18:48 PM - LoginPage - INFO: Element Found with locator: password
+05/19/2022 11:18:48 PM - LoginPage - INFO: Element Found with locator: email
+05/19/2022 11:18:48 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/19/2022 11:18:48 PM - LoginPage - INFO: Element Found with locator: password
+05/19/2022 11:18:48 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/19/2022 11:18:48 PM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/19/2022 11:18:49 PM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/19/2022 11:18:49 PM - LoginPage - INFO: Element Found with locator: h1
+05/19/2022 11:18:49 PM - LoginPage - INFO: Element Found
+05/21/2022 11:23:12 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/21/2022 11:23:13 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/21/2022 11:23:13 PM - LoginPage - INFO: Element Found with locator: email
+05/21/2022 11:23:13 PM - LoginPage - INFO: Element Found with locator: password
+05/21/2022 11:23:13 PM - LoginPage - INFO: Element Found with locator: email
+05/21/2022 11:23:14 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/21/2022 11:23:14 PM - LoginPage - INFO: Element Found with locator: password
+05/21/2022 11:23:14 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/21/2022 11:23:14 PM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/21/2022 11:23:14 PM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/21/2022 11:23:14 PM - LoginPage - INFO: Element Found with locator: //span[text()="Your username or password is invalid. Please try again."]
+05/21/2022 11:23:14 PM - LoginPage - INFO: Element Found
+05/21/2022 11:23:15 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/21/2022 11:23:15 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/21/2022 11:23:15 PM - LoginPage - INFO: Element Found with locator: email
+05/21/2022 11:23:15 PM - LoginPage - INFO: Element Found with locator: password
+05/21/2022 11:23:15 PM - LoginPage - INFO: Element Found with locator: email
+05/21/2022 11:23:15 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/21/2022 11:23:15 PM - LoginPage - INFO: Element Found with locator: password
+05/21/2022 11:23:15 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/21/2022 11:23:15 PM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/21/2022 11:23:17 PM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/21/2022 11:23:17 PM - LoginPage - INFO: Element Found with locator: title
+05/21/2022 11:23:17 PM - TestStatus - INFO: #### VERIFICATION FAILED  :: Title is incorrect  ::
+05/21/2022 11:23:17 PM - LoginPage - INFO: Element Found with locator: h1
+05/21/2022 11:23:17 PM - LoginPage - INFO: Element Found
+05/21/2022 11:23:17 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Login was not successful  ::
+05/21/2022 11:23:17 PM - TestStatus - ERROR: ::  test_valid_login  ::   ### TEST FAILED ###
+05/21/2022 11:29:08 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/21/2022 11:29:09 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/21/2022 11:29:09 PM - LoginPage - INFO: Element not found with locator: email
+05/21/2022 11:30:54 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/21/2022 11:30:56 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/21/2022 11:30:56 PM - LoginPage - INFO: Element Found with locator: email
+05/21/2022 11:30:56 PM - LoginPage - INFO: Element Found with locator: password
+05/21/2022 11:30:56 PM - LoginPage - INFO: Element Found with locator: email
+05/21/2022 11:30:56 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/21/2022 11:30:56 PM - LoginPage - INFO: Element Found with locator: password
+05/21/2022 11:30:56 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/21/2022 11:30:56 PM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/21/2022 11:30:56 PM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/21/2022 11:30:56 PM - LoginPage - INFO: Element Found with locator: //span[text()="Your username or password is invalid. Please try again."]
+05/21/2022 11:30:56 PM - LoginPage - INFO: Element Found
+05/21/2022 11:30:57 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/21/2022 11:30:58 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/21/2022 11:30:58 PM - LoginPage - INFO: Element Found with locator: email
+05/21/2022 11:30:58 PM - LoginPage - INFO: Element Found with locator: password
+05/21/2022 11:30:58 PM - LoginPage - INFO: Element Found with locator: email
+05/21/2022 11:30:58 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/21/2022 11:30:58 PM - LoginPage - INFO: Element Found with locator: password
+05/21/2022 11:30:58 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/21/2022 11:30:58 PM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/21/2022 11:30:59 PM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/21/2022 11:32:33 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/21/2022 11:32:35 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/21/2022 11:32:35 PM - LoginPage - INFO: Element Found with locator: email
+05/21/2022 11:32:35 PM - LoginPage - INFO: Element Found with locator: password
+05/21/2022 11:32:35 PM - LoginPage - INFO: Element Found with locator: email
+05/21/2022 11:32:35 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/21/2022 11:32:35 PM - LoginPage - INFO: Element Found with locator: password
+05/21/2022 11:32:35 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/21/2022 11:32:35 PM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/21/2022 11:32:36 PM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/21/2022 11:32:36 PM - LoginPage - INFO: Element Found with locator: //span[text()="Your username or password is invalid. Please try again."]
+05/21/2022 11:32:36 PM - LoginPage - INFO: Element Found
+05/21/2022 11:32:36 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/21/2022 11:32:37 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/21/2022 11:32:37 PM - LoginPage - INFO: Element Found with locator: email
+05/21/2022 11:32:37 PM - LoginPage - INFO: Element Found with locator: password
+05/21/2022 11:32:37 PM - LoginPage - INFO: Element Found with locator: email
+05/21/2022 11:32:37 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/21/2022 11:32:37 PM - LoginPage - INFO: Element Found with locator: password
+05/21/2022 11:32:37 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/21/2022 11:32:37 PM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/21/2022 11:32:38 PM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/21/2022 11:34:18 PM - LoginPage - INFO: Element Found with locator: title
+05/21/2022 11:34:48 PM - LoginPage - INFO: Element Found with locator: title
+05/21/2022 11:36:08 PM - LoginPage - INFO: Element Found with locator: title
+05/22/2022 12:16:35 AM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/22/2022 12:16:36 AM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/22/2022 12:16:36 AM - LoginPage - INFO: Element Found with locator: email
+05/22/2022 12:16:36 AM - LoginPage - INFO: Element Found with locator: password
+05/22/2022 12:16:36 AM - LoginPage - INFO: Element Found with locator: email
+05/22/2022 12:16:36 AM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/22/2022 12:16:36 AM - LoginPage - INFO: Element Found with locator: password
+05/22/2022 12:16:36 AM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/22/2022 12:16:36 AM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/22/2022 12:16:37 AM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/22/2022 12:16:37 AM - LoginPage - INFO: Element Found with locator: //span[text()="Your username or password is invalid. Please try again."]
+05/22/2022 12:16:37 AM - LoginPage - INFO: Element Found
+05/22/2022 12:16:38 AM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/22/2022 12:16:38 AM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/22/2022 12:16:38 AM - LoginPage - INFO: Element Found with locator: email
+05/22/2022 12:16:38 AM - LoginPage - INFO: Element Found with locator: password
+05/22/2022 12:16:38 AM - LoginPage - INFO: Element Found with locator: email
+05/22/2022 12:16:38 AM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/22/2022 12:16:38 AM - LoginPage - INFO: Element Found with locator: password
+05/22/2022 12:16:38 AM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/22/2022 12:16:38 AM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/22/2022 12:16:39 AM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/22/2022 12:16:39 AM - LoginPage - INFO: Title of Website found ::  My Courses
+05/22/2022 12:16:39 AM - TestStatus - INFO: #### VERIFICATION FAILED  ::  Title is correct  ::
+05/22/2022 12:17:00 AM - TestStatus - INFO: #### Exception Occurred !!!
+05/22/2022 12:17:46 AM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/22/2022 12:17:47 AM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/22/2022 12:17:47 AM - LoginPage - INFO: Element Found with locator: email
+05/22/2022 12:17:47 AM - LoginPage - INFO: Element Found with locator: password
+05/22/2022 12:17:47 AM - LoginPage - INFO: Element Found with locator: email
+05/22/2022 12:17:47 AM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/22/2022 12:17:47 AM - LoginPage - INFO: Element Found with locator: password
+05/22/2022 12:17:47 AM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/22/2022 12:17:47 AM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/22/2022 12:17:48 AM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/22/2022 12:17:48 AM - LoginPage - INFO: Element Found with locator: //span[text()="Your username or password is invalid. Please try again."]
+05/22/2022 12:17:48 AM - LoginPage - INFO: Element Found
+05/22/2022 12:17:49 AM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/22/2022 12:17:50 AM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/22/2022 12:17:50 AM - LoginPage - INFO: Element Found with locator: email
+05/22/2022 12:17:50 AM - LoginPage - INFO: Element Found with locator: password
+05/22/2022 12:17:50 AM - LoginPage - INFO: Element Found with locator: email
+05/22/2022 12:17:50 AM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/22/2022 12:17:50 AM - LoginPage - INFO: Element Found with locator: password
+05/22/2022 12:17:50 AM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/22/2022 12:17:50 AM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/22/2022 12:17:51 AM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/22/2022 12:17:51 AM - LoginPage - INFO: Title of Website found ::  My Courses
+05/22/2022 12:17:51 AM - TestStatus - INFO: #### VERIFICATION FAILED  ::  Title is correct  ::
+05/22/2022 12:18:06 AM - TestStatus - INFO: #### Exception Occurred !!!
+05/22/2022 12:20:57 AM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/22/2022 12:20:59 AM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/22/2022 12:20:59 AM - LoginPage - INFO: Element Found with locator: email
+05/22/2022 12:20:59 AM - LoginPage - INFO: Element Found with locator: password
+05/22/2022 12:20:59 AM - LoginPage - INFO: Element Found with locator: email
+05/22/2022 12:20:59 AM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/22/2022 12:20:59 AM - LoginPage - INFO: Element Found with locator: password
+05/22/2022 12:20:59 AM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/22/2022 12:20:59 AM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/22/2022 12:20:59 AM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/22/2022 12:20:59 AM - LoginPage - INFO: Element Found with locator: //span[text()="Your username or password is invalid. Please try again."]
+05/22/2022 12:20:59 AM - LoginPage - INFO: Element Found
+05/22/2022 12:21:00 AM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/22/2022 12:21:00 AM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/22/2022 12:21:00 AM - LoginPage - INFO: Element Found with locator: email
+05/22/2022 12:21:00 AM - LoginPage - INFO: Element Found with locator: password
+05/22/2022 12:21:00 AM - LoginPage - INFO: Element Found with locator: email
+05/22/2022 12:21:00 AM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/22/2022 12:21:00 AM - LoginPage - INFO: Element Found with locator: password
+05/22/2022 12:21:00 AM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/22/2022 12:21:00 AM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/22/2022 12:21:01 AM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/22/2022 12:21:01 AM - LoginPage - INFO: Title of Website found ::  My Courses
+05/22/2022 12:21:01 AM - TestStatus - INFO: #### VERIFICATION FAILED  ::  Title is correct  ::
+05/22/2022 12:23:52 AM - TestStatus - INFO: #### Exception Occurred !!!
+05/22/2022 12:23:52 AM - TestStatus - ERROR: ### Exception Occured
+05/22/2022 12:23:52 AM - LoginPage - INFO: Element not found with locator: h1
+05/22/2022 12:23:52 AM - LoginPage - INFO: Element not found
+05/22/2022 12:23:52 AM - TestStatus - INFO: #### VERIFICATION FAILED  ::  Login was successful  ::
+05/22/2022 12:23:52 AM - TestStatus - ERROR: ### Exception Occured
+05/22/2022 12:23:52 AM - TestStatus - ERROR: ::  test_valid_login  ::   ### TEST FAILED ###
+05/23/2022 02:37:21 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/23/2022 02:37:22 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/23/2022 02:37:22 PM - LoginPage - INFO: Element Found with locator: email
+05/23/2022 02:37:22 PM - LoginPage - INFO: Element Found with locator: password
+05/23/2022 02:37:22 PM - LoginPage - INFO: Element Found with locator: email
+05/23/2022 02:37:22 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/23/2022 02:37:22 PM - LoginPage - INFO: Element Found with locator: password
+05/23/2022 02:37:23 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/23/2022 02:37:23 PM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/23/2022 02:37:23 PM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/23/2022 02:37:56 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/23/2022 02:37:56 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/23/2022 02:38:21 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/23/2022 02:38:22 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/23/2022 02:38:22 PM - LoginPage - INFO: Element Found with locator: email
+05/23/2022 02:38:22 PM - LoginPage - INFO: Element Found with locator: password
+05/23/2022 02:38:22 PM - LoginPage - INFO: Element Found with locator: email
+05/23/2022 02:38:22 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/23/2022 02:38:22 PM - LoginPage - INFO: Element Found with locator: password
+05/23/2022 02:38:22 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/23/2022 02:38:22 PM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/23/2022 02:38:23 PM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/23/2022 02:38:51 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/23/2022 02:38:51 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/23/2022 02:38:51 PM - LoginPage - INFO: Element Found with locator: email
+05/23/2022 02:39:01 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/23/2022 02:39:01 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/23/2022 02:39:01 PM - LoginPage - INFO: Element Found with locator: email
+05/23/2022 02:39:43 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/23/2022 02:39:45 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/23/2022 02:39:45 PM - LoginPage - INFO: Element Found with locator: email
+05/23/2022 02:39:45 PM - LoginPage - INFO: Element Found with locator: password
+05/23/2022 02:39:45 PM - LoginPage - INFO: Element Found with locator: email
+05/23/2022 02:39:45 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/23/2022 02:39:45 PM - LoginPage - INFO: Element Found with locator: password
+05/23/2022 02:39:45 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/23/2022 02:39:45 PM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/23/2022 02:39:46 PM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/23/2022 02:39:47 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/23/2022 02:39:47 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/23/2022 02:39:47 PM - LoginPage - INFO: Element Found with locator: email
+05/23/2022 02:39:51 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/23/2022 02:39:52 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/23/2022 02:39:52 PM - LoginPage - INFO: Element Found with locator: email
+05/25/2022 11:17:25 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://letskodeit.com :: Browser - chrome :: Version :: 102.0.5005.61 :: platform :: mac os x
+05/25/2022 11:17:27 PM - LoginPage - INFO: Element Found with locator: //div[@class='ast-button'], using locator type: xpath
+05/25/2022 11:17:29 PM - LoginPage - INFO: Clicked on the element with: //div[@class='ast-button']   locator type: xpath
+05/25/2022 11:17:31 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:17:31 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:17:33 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:17:33 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:17:33 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:17:34 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:17:39 PM - NavigationPage - INFO: Element not found with locator: //img[contains(@src, 'default-user-profile-pic')]/parent::button, , using locator type: xpath
+05/25/2022 11:17:39 PM - NavigationPage - INFO: Cannot click on the element with: //img[contains(@src, 'default-user-profile-pic')]/parent::button    locator type: xpath
+05/25/2022 11:17:42 PM - LoginPage - INFO: Element not found with locator: //a[contains(text(),'Logout')], , using locator type: xpath
+05/25/2022 11:17:42 PM - LoginPage - INFO: Cannot click on the element with: //a[contains(text(),'Logout')]    locator type: xpath
+05/25/2022 11:17:44 PM - LoginPage - INFO: Element Found with locator: //div[@class='ast-button'], using locator type: xpath
+05/25/2022 11:17:45 PM - LoginPage - INFO: Clicked on the element with: //div[@class='ast-button']   locator type: xpath
+05/25/2022 11:17:47 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:17:50 PM - LoginPage - INFO: Cannot Send Keys to element with locator: email  locatorType: id
+05/25/2022 11:17:55 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/25/2022 11:17:55 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/25/2022 11:17:58 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/25/2022 11:17:58 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/25/2022 11:18:03 PM - LoginPage - INFO: Element not found with locator: //span[text()="Your username or password is invalid. Please try again."], , using locator type: xpath
+05/25/2022 11:18:03 PM - LoginPage - INFO: Element not found
+05/25/2022 11:18:06 PM - LoginPage - INFO: Element Found with locator: //div[@class='ast-button'], using locator type: xpath
+05/25/2022 11:18:07 PM - LoginPage - INFO: Clicked on the element with: //div[@class='ast-button']   locator type: xpath
+05/25/2022 11:18:09 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:18:12 PM - LoginPage - INFO: Cannot Send Keys to element with locator: email  locatorType: id
+05/25/2022 11:18:17 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/25/2022 11:18:17 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/25/2022 11:18:20 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/25/2022 11:18:20 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/25/2022 11:18:22 PM - LoginPage - INFO: Title of Website found ::  My Courses
+05/25/2022 11:18:22 PM - Util - INFO: Actual Text From Application Web UI --> :: My Courses
+05/25/2022 11:18:22 PM - Util - INFO: Expected Text From Application Web UI --> :: My Courses
+05/25/2022 11:18:22 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:18:22 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Title is correct  ::
+05/25/2022 11:18:22 PM - LoginPage - INFO: Element Found with locator: h1, using locator type: tag
+05/25/2022 11:18:22 PM - LoginPage - INFO: Element Found
+05/25/2022 11:18:22 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Login was successful  ::
+05/25/2022 11:18:22 PM - TestStatus - INFO: ::  test_valid_login  ::  ### TEST SUCCESSFUL ###
+05/25/2022 11:18:51 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://letskodeit.com :: Browser - chrome :: Version :: 102.0.5005.61 :: platform :: mac os x
+05/25/2022 11:18:53 PM - LoginPage - INFO: Element Found with locator: //div[@class='ast-button'], using locator type: xpath
+05/25/2022 11:18:54 PM - LoginPage - INFO: Clicked on the element with: //div[@class='ast-button']   locator type: xpath
+05/25/2022 11:18:56 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:18:56 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:18:58 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:18:58 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:18:58 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:18:59 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id

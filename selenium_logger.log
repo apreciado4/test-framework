@@ -1,0 +1,1100 @@
+05/25/2022 11:49:33 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - chrome :: Version :: 102.0.5005.61 :: platform :: mac os x
+05/25/2022 11:49:35 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/25/2022 11:49:36 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/25/2022 11:49:38 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:49:38 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:49:40 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:49:40 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:49:40 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:49:41 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:49:43 PM - NavigationPage - INFO: Element Found with locator: //img[contains(@src, 'default-user-profile-pic')]/parent::button, using locator type: xpath
+05/25/2022 11:49:43 PM - NavigationPage - INFO: Clicked on the element with: //img[contains(@src, 'default-user-profile-pic')]/parent::button   locator type: xpath
+05/25/2022 11:49:43 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Logout')], using locator type: xpath
+05/25/2022 11:49:44 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Logout')]   locator type: xpath
+05/25/2022 11:49:46 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/25/2022 11:49:47 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/25/2022 11:49:49 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:49:49 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:49:51 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:49:51 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:49:51 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:49:52 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:49:54 PM - LoginPage - INFO: Element Found with locator: //span[text()="Your username or password is invalid. Please try again."], using locator type: xpath
+05/25/2022 11:49:54 PM - LoginPage - INFO: Element Found
+05/25/2022 11:49:57 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - chrome :: Version :: 102.0.5005.61 :: platform :: mac os x
+05/25/2022 11:49:59 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/25/2022 11:49:59 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/25/2022 11:50:01 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:50:01 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:50:03 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:50:03 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:50:03 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:50:05 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:50:07 PM - NavigationPage - INFO: Element Found with locator: //a[contains(text(),'ALL COURSES')], using locator type: xpath
+05/25/2022 11:50:09 PM - NavigationPage - INFO: Clicked on the element with: //a[contains(text(),'ALL COURSES')]   locator type: xpath
+05/25/2022 11:50:09 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/25/2022 11:50:10 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/25/2022 11:50:10 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@id='search'], using locator type: xpath
+05/25/2022 11:50:10 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/25/2022 11:50:10 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/25/2022 11:50:10 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/25/2022 11:50:10 PM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/25/2022 11:50:10 PM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/25/2022 11:50:10 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/25/2022 11:50:10 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:50:10 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/25/2022 11:50:10 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/25/2022 11:50:10 PM - RegisterCoursesPage - INFO: Element Found with locator: // h4[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/25/2022 11:50:10 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/25/2022 11:50:10 PM - RegisterCoursesPage - DEBUG: After finding element, size is 24
+05/25/2022 11:50:10 PM - Util - INFO: Actual Text From Application Web UI --> :: JavaScript for beginners
+05/25/2022 11:50:10 PM - Util - INFO: Expected Text From Application Web UI --> :: JavaScript for beginners
+05/25/2022 11:50:10 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:50:10 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title Link is Present  ::
+05/25/2022 11:50:10 PM - RegisterCoursesPage - INFO: Element Found with locator: //h4[contains(text(), 'JavaScript for beginners')]/ancestor::div[@class='zen-course-list'], using locator type: xpath
+05/25/2022 11:50:12 PM - RegisterCoursesPage - INFO: Clicked on the element with: //h4[contains(text(), 'JavaScript for beginners')]/ancestor::div[@class='zen-course-list']   locator type: xpath
+05/25/2022 11:50:12 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[text()='Enroll in Course'], using locator type: xpath
+05/25/2022 11:50:13 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[text()='Enroll in Course']   locator type: xpath
+05/25/2022 11:50:13 PM - RegisterCoursesPage - INFO: Element Found with locator: //*[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/25/2022 11:50:13 PM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:50:13 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title is Present  ::
+05/25/2022 11:50:13 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-number > div > iframe, using locator type: css
+05/25/2022 11:50:13 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="8e6b87d4bac317d5e431598ba5e2b2a2", element="3655af7a-2656-4417-8dd1-29ce728ba9ca")>
+05/25/2022 11:50:13 PM - RegisterCoursesPage - INFO: Element Found with locator: cardnumber, using locator type: name
+05/25/2022 11:50:14 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cardnumber  locatorType: name
+05/25/2022 11:50:14 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-expiry > div > iframe, using locator type: css
+05/25/2022 11:50:14 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="8e6b87d4bac317d5e431598ba5e2b2a2", element="3e62f618-7572-4873-8529-cc6b391a8e57")>
+05/25/2022 11:50:14 PM - RegisterCoursesPage - INFO: Element Found with locator: exp-date, using locator type: name
+05/25/2022 11:50:14 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: exp-date  locatorType: name
+05/25/2022 11:50:14 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-cvc > div > iframe, using locator type: css
+05/25/2022 11:50:14 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="8e6b87d4bac317d5e431598ba5e2b2a2", element="2b1d734b-5649-4c4a-b08d-26d1e577cb5b")>
+05/25/2022 11:50:14 PM - RegisterCoursesPage - INFO: Element Found with locator: cvc, using locator type: name
+05/25/2022 11:50:14 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cvc  locatorType: name
+05/25/2022 11:50:14 PM - RegisterCoursesPage - INFO: Element Found with locator: button.zen-subscribe.sp-buy, using locator type: css
+05/25/2022 11:50:14 PM - RegisterCoursesPage - INFO: Clicked on the element with: button.zen-subscribe.sp-buy   locator type: css
+05/25/2022 11:50:14 PM - RegisterCoursesPage - INFO: Element Found with locator: div.has-error.card-errors span, using locator type: css
+05/25/2022 11:50:14 PM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:50:14 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Invalid Enrollment  ::
+05/25/2022 11:50:14 PM - TestStatus - INFO: ::  Test Invalid Enrollment  ::  ### TEST SUCCESSFUL ###
+05/25/2022 11:50:14 PM - NavigationPage - INFO: Element Found with locator: //a[contains(text(),'ALL COURSES')], using locator type: xpath
+05/25/2022 11:50:16 PM - NavigationPage - INFO: Clicked on the element with: //a[contains(text(),'ALL COURSES')]   locator type: xpath
+05/25/2022 11:50:16 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/25/2022 11:50:19 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/25/2022 11:50:19 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@id='search'], using locator type: xpath
+05/25/2022 11:50:19 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/25/2022 11:50:19 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/25/2022 11:50:19 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/25/2022 11:50:19 PM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/25/2022 11:50:19 PM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/25/2022 11:50:19 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/25/2022 11:50:19 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:50:19 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/25/2022 11:50:19 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/25/2022 11:50:20 PM - RegisterCoursesPage - INFO: Element Found with locator: // h4[contains(text(), 'Learn Python 3 from scratch')], using locator type: xpath
+05/25/2022 11:50:20 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/25/2022 11:50:20 PM - RegisterCoursesPage - DEBUG: After finding element, size is 27
+05/25/2022 11:50:20 PM - Util - INFO: Actual Text From Application Web UI --> :: Learn Python 3 from scratch
+05/25/2022 11:50:20 PM - Util - INFO: Expected Text From Application Web UI --> :: Learn Python 3 from scratch
+05/25/2022 11:50:20 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:50:20 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title Link is Present  ::
+05/25/2022 11:50:20 PM - RegisterCoursesPage - INFO: Element Found with locator: //h4[contains(text(), 'Learn Python 3 from scratch')]/ancestor::div[@class='zen-course-list'], using locator type: xpath
+05/25/2022 11:50:51 PM - RegisterCoursesPage - INFO: Clicked on the element with: //h4[contains(text(), 'Learn Python 3 from scratch')]/ancestor::div[@class='zen-course-list']   locator type: xpath
+05/25/2022 11:50:51 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[text()='Enroll in Course'], using locator type: xpath
+05/25/2022 11:51:23 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[text()='Enroll in Course']   locator type: xpath
+05/25/2022 11:51:23 PM - RegisterCoursesPage - INFO: Element Found with locator: //*[contains(text(), 'Learn Python 3 from scratch')], using locator type: xpath
+05/25/2022 11:51:23 PM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:51:23 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title is Present  ::
+05/25/2022 11:51:23 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-number > div > iframe, using locator type: css
+05/25/2022 11:51:23 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="8e6b87d4bac317d5e431598ba5e2b2a2", element="64a46874-e352-49de-9ab4-9a60e6915995")>
+05/25/2022 11:51:23 PM - RegisterCoursesPage - INFO: Element Found with locator: cardnumber, using locator type: name
+05/25/2022 11:51:23 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cardnumber  locatorType: name
+05/25/2022 11:51:23 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-expiry > div > iframe, using locator type: css
+05/25/2022 11:51:23 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="8e6b87d4bac317d5e431598ba5e2b2a2", element="f856436c-7837-495a-9799-d27bf45efc81")>
+05/25/2022 11:51:23 PM - RegisterCoursesPage - INFO: Element Found with locator: exp-date, using locator type: name
+05/25/2022 11:51:23 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: exp-date  locatorType: name
+05/25/2022 11:51:23 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-cvc > div > iframe, using locator type: css
+05/25/2022 11:51:23 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="8e6b87d4bac317d5e431598ba5e2b2a2", element="ea2134ef-3450-4a8e-83de-e09356506e62")>
+05/25/2022 11:51:23 PM - RegisterCoursesPage - INFO: Element Found with locator: cvc, using locator type: name
+05/25/2022 11:51:23 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cvc  locatorType: name
+05/25/2022 11:51:23 PM - RegisterCoursesPage - INFO: Element Found with locator: button.zen-subscribe.sp-buy, using locator type: css
+05/25/2022 11:51:23 PM - RegisterCoursesPage - INFO: Clicked on the element with: button.zen-subscribe.sp-buy   locator type: css
+05/25/2022 11:51:24 PM - RegisterCoursesPage - INFO: Element Found with locator: div.has-error.card-errors span, using locator type: css
+05/25/2022 11:51:24 PM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:51:24 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Invalid Enrollment  ::
+05/25/2022 11:51:24 PM - TestStatus - INFO: ::  Test Invalid Enrollment  ::  ### TEST SUCCESSFUL ###
+05/25/2022 11:51:27 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - chrome :: Version :: 102.0.5005.61 :: platform :: mac os x
+05/25/2022 11:51:29 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/25/2022 11:51:30 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/25/2022 11:51:32 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:51:32 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:51:34 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:51:34 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:51:34 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:51:35 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:51:42 PM - LoginPage - INFO: Element not found with locator: //a[contains(text(),'Sign In')]/parent::div, , using locator type: xpath
+05/25/2022 11:51:42 PM - LoginPage - INFO: Cannot click on the element with: //a[contains(text(),'Sign In')]/parent::div    locator type: xpath
+05/25/2022 11:51:44 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:51:47 PM - LoginPage - INFO: Cannot Send Keys to element with locator: email  locatorType: id
+05/25/2022 11:51:52 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/25/2022 11:51:52 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/25/2022 11:51:55 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/25/2022 11:51:55 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/25/2022 11:51:57 PM - LoginPage - INFO: Title of Website found ::  My Courses
+05/25/2022 11:51:57 PM - Util - INFO: Actual Text From Application Web UI --> :: My Courses
+05/25/2022 11:51:57 PM - Util - INFO: Expected Text From Application Web UI --> :: My Courses
+05/25/2022 11:51:57 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:51:57 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Title is correct  ::
+05/25/2022 11:51:57 PM - LoginPage - INFO: Element Found with locator: h1, using locator type: tag
+05/25/2022 11:51:57 PM - LoginPage - INFO: Element Found
+05/25/2022 11:51:57 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Login was successful  ::
+05/25/2022 11:51:57 PM - TestStatus - INFO: ::  test_valid_login  ::  ### TEST SUCCESSFUL ###
+05/25/2022 11:52:03 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - firefox :: Version :: 100.0.2 :: platform :: mac
+05/25/2022 11:52:05 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/25/2022 11:52:06 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/25/2022 11:52:08 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:52:08 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:52:10 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:52:10 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:52:10 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:52:10 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:52:12 PM - NavigationPage - INFO: Element Found with locator: //img[contains(@src, 'default-user-profile-pic')]/parent::button, using locator type: xpath
+05/25/2022 11:52:12 PM - NavigationPage - INFO: Clicked on the element with: //img[contains(@src, 'default-user-profile-pic')]/parent::button   locator type: xpath
+05/25/2022 11:52:12 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Logout')], using locator type: xpath
+05/25/2022 11:52:13 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Logout')]   locator type: xpath
+05/25/2022 11:52:15 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/25/2022 11:52:16 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/25/2022 11:52:18 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:52:18 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:52:20 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:52:20 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:52:20 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:52:20 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:52:22 PM - LoginPage - INFO: Element Found with locator: //span[text()="Your username or password is invalid. Please try again."], using locator type: xpath
+05/25/2022 11:52:22 PM - LoginPage - INFO: Element Found
+05/25/2022 11:52:26 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - firefox :: Version :: 100.0.2 :: platform :: mac
+05/25/2022 11:52:28 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/25/2022 11:52:28 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/25/2022 11:52:30 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:52:30 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:52:33 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:52:33 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:52:33 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:52:33 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:52:35 PM - NavigationPage - INFO: Element Found with locator: //a[contains(text(),'ALL COURSES')], using locator type: xpath
+05/25/2022 11:52:37 PM - NavigationPage - INFO: Clicked on the element with: //a[contains(text(),'ALL COURSES')]   locator type: xpath
+05/25/2022 11:52:37 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/25/2022 11:52:40 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/25/2022 11:52:40 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@id='search'], using locator type: xpath
+05/25/2022 11:52:40 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/25/2022 11:52:40 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/25/2022 11:52:40 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/25/2022 11:52:40 PM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/25/2022 11:52:40 PM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/25/2022 11:52:40 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/25/2022 11:52:40 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:52:40 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/25/2022 11:52:40 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/25/2022 11:52:40 PM - RegisterCoursesPage - INFO: Element Found with locator: // h4[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/25/2022 11:52:40 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/25/2022 11:52:40 PM - RegisterCoursesPage - DEBUG: After finding element, size is 24
+05/25/2022 11:52:40 PM - Util - INFO: Actual Text From Application Web UI --> :: JavaScript for beginners
+05/25/2022 11:52:40 PM - Util - INFO: Expected Text From Application Web UI --> :: JavaScript for beginners
+05/25/2022 11:52:40 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:52:40 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title Link is Present  ::
+05/25/2022 11:52:40 PM - RegisterCoursesPage - INFO: Element Found with locator: //h4[contains(text(), 'JavaScript for beginners')]/ancestor::div[@class='zen-course-list'], using locator type: xpath
+05/25/2022 11:52:43 PM - RegisterCoursesPage - INFO: Clicked on the element with: //h4[contains(text(), 'JavaScript for beginners')]/ancestor::div[@class='zen-course-list']   locator type: xpath
+05/25/2022 11:52:43 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[text()='Enroll in Course'], using locator type: xpath
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[text()='Enroll in Course']   locator type: xpath
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Element Found with locator: //*[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:52:46 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title is Present  ::
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-number > div > iframe, using locator type: css
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="8a6cc17f-8dca-46f1-b800-6f4088d15acb", element="1105c751-3ff3-4747-a42e-80a61be1e8da")>
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Element Found with locator: cardnumber, using locator type: name
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cardnumber  locatorType: name
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-expiry > div > iframe, using locator type: css
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="8a6cc17f-8dca-46f1-b800-6f4088d15acb", element="13572ffa-0632-4669-b8cb-d64073dfb5d8")>
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Element Found with locator: exp-date, using locator type: name
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: exp-date  locatorType: name
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-cvc > div > iframe, using locator type: css
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="8a6cc17f-8dca-46f1-b800-6f4088d15acb", element="d6f40c52-ec83-4cc8-8a9f-dcea51172b1a")>
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Element Found with locator: cvc, using locator type: name
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cvc  locatorType: name
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Element Found with locator: button.zen-subscribe.sp-buy, using locator type: css
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Clicked on the element with: button.zen-subscribe.sp-buy   locator type: css
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Element Found with locator: div.has-error.card-errors span, using locator type: css
+05/25/2022 11:52:46 PM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:52:46 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Invalid Enrollment  ::
+05/25/2022 11:52:46 PM - TestStatus - INFO: ::  Test Invalid Enrollment  ::  ### TEST SUCCESSFUL ###
+05/25/2022 11:52:46 PM - NavigationPage - INFO: Element Found with locator: //a[contains(text(),'ALL COURSES')], using locator type: xpath
+05/25/2022 11:52:49 PM - NavigationPage - INFO: Clicked on the element with: //a[contains(text(),'ALL COURSES')]   locator type: xpath
+05/25/2022 11:52:49 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/25/2022 11:52:52 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/25/2022 11:52:52 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@id='search'], using locator type: xpath
+05/25/2022 11:52:52 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/25/2022 11:52:52 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/25/2022 11:52:52 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/25/2022 11:52:52 PM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/25/2022 11:52:52 PM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/25/2022 11:52:52 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/25/2022 11:52:52 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:52:52 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/25/2022 11:52:52 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/25/2022 11:52:52 PM - RegisterCoursesPage - INFO: Element Found with locator: // h4[contains(text(), 'Learn Python 3 from scratch')], using locator type: xpath
+05/25/2022 11:52:52 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/25/2022 11:52:52 PM - RegisterCoursesPage - DEBUG: After finding element, size is 27
+05/25/2022 11:52:52 PM - Util - INFO: Actual Text From Application Web UI --> :: Learn Python 3 from scratch
+05/25/2022 11:52:52 PM - Util - INFO: Expected Text From Application Web UI --> :: Learn Python 3 from scratch
+05/25/2022 11:52:52 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:52:52 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title Link is Present  ::
+05/25/2022 11:52:52 PM - RegisterCoursesPage - INFO: Element Found with locator: //h4[contains(text(), 'Learn Python 3 from scratch')]/ancestor::div[@class='zen-course-list'], using locator type: xpath
+05/25/2022 11:53:25 PM - RegisterCoursesPage - INFO: Clicked on the element with: //h4[contains(text(), 'Learn Python 3 from scratch')]/ancestor::div[@class='zen-course-list']   locator type: xpath
+05/25/2022 11:53:25 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[text()='Enroll in Course'], using locator type: xpath
+05/25/2022 11:53:58 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[text()='Enroll in Course']   locator type: xpath
+05/25/2022 11:53:58 PM - RegisterCoursesPage - INFO: Element Found with locator: //*[contains(text(), 'Learn Python 3 from scratch')], using locator type: xpath
+05/25/2022 11:53:58 PM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:53:58 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title is Present  ::
+05/25/2022 11:53:58 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-number > div > iframe, using locator type: css
+05/25/2022 11:53:58 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="8a6cc17f-8dca-46f1-b800-6f4088d15acb", element="c1ae4cc3-752f-4f1b-adcf-cb38a55850d3")>
+05/25/2022 11:53:58 PM - RegisterCoursesPage - INFO: Element Found with locator: cardnumber, using locator type: name
+05/25/2022 11:53:58 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cardnumber  locatorType: name
+05/25/2022 11:53:58 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-expiry > div > iframe, using locator type: css
+05/25/2022 11:53:58 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="8a6cc17f-8dca-46f1-b800-6f4088d15acb", element="a31d04c0-4b59-4a8f-987a-eeef52a33ad1")>
+05/25/2022 11:53:58 PM - RegisterCoursesPage - INFO: Element Found with locator: exp-date, using locator type: name
+05/25/2022 11:53:58 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: exp-date  locatorType: name
+05/25/2022 11:53:58 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-cvc > div > iframe, using locator type: css
+05/25/2022 11:53:58 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="8a6cc17f-8dca-46f1-b800-6f4088d15acb", element="2cfa5854-b184-4754-8a29-07ee8cb964c2")>
+05/25/2022 11:53:58 PM - RegisterCoursesPage - INFO: Element Found with locator: cvc, using locator type: name
+05/25/2022 11:53:58 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cvc  locatorType: name
+05/25/2022 11:53:58 PM - RegisterCoursesPage - INFO: Element Found with locator: button.zen-subscribe.sp-buy, using locator type: css
+05/25/2022 11:53:59 PM - RegisterCoursesPage - INFO: Clicked on the element with: button.zen-subscribe.sp-buy   locator type: css
+05/25/2022 11:53:59 PM - RegisterCoursesPage - INFO: Element Found with locator: div.has-error.card-errors span, using locator type: css
+05/25/2022 11:53:59 PM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:53:59 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Invalid Enrollment  ::
+05/25/2022 11:53:59 PM - TestStatus - INFO: ::  Test Invalid Enrollment  ::  ### TEST SUCCESSFUL ###
+05/25/2022 11:54:03 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - firefox :: Version :: 100.0.2 :: platform :: mac
+05/25/2022 11:54:05 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/25/2022 11:54:06 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/25/2022 11:54:08 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:54:08 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:54:10 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:54:10 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:54:10 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:54:10 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:54:17 PM - LoginPage - INFO: Element not found with locator: //a[contains(text(),'Sign In')]/parent::div, , using locator type: xpath
+05/25/2022 11:54:17 PM - LoginPage - INFO: Cannot click on the element with: //a[contains(text(),'Sign In')]/parent::div    locator type: xpath
+05/25/2022 11:54:19 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:54:19 PM - LoginPage - INFO: Cannot Send Keys to element with locator: email  locatorType: id
+05/25/2022 11:54:24 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/25/2022 11:54:24 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/25/2022 11:54:27 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/25/2022 11:54:27 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/25/2022 11:54:29 PM - LoginPage - INFO: Title of Website found ::  My Courses
+05/25/2022 11:54:29 PM - Util - INFO: Actual Text From Application Web UI --> :: My Courses
+05/25/2022 11:54:29 PM - Util - INFO: Expected Text From Application Web UI --> :: My Courses
+05/25/2022 11:54:29 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:54:29 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Title is correct  ::
+05/25/2022 11:54:29 PM - LoginPage - INFO: Element Found with locator: h1, using locator type: tag
+05/25/2022 11:54:29 PM - LoginPage - INFO: Element Found
+05/25/2022 11:54:29 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Login was successful  ::
+05/25/2022 11:54:29 PM - TestStatus - INFO: ::  test_valid_login  ::  ### TEST SUCCESSFUL ###
+05/25/2022 11:54:40 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - msedge :: Version :: 101.0.1210.53 :: platform :: mac os x
+05/25/2022 11:54:43 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/25/2022 11:54:43 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/25/2022 11:54:45 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:54:46 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:54:48 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:54:48 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:54:48 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:54:49 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:54:51 PM - NavigationPage - INFO: Element Found with locator: //img[contains(@src, 'default-user-profile-pic')]/parent::button, using locator type: xpath
+05/25/2022 11:54:51 PM - NavigationPage - INFO: Clicked on the element with: //img[contains(@src, 'default-user-profile-pic')]/parent::button   locator type: xpath
+05/25/2022 11:54:51 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Logout')], using locator type: xpath
+05/25/2022 11:54:52 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Logout')]   locator type: xpath
+05/25/2022 11:54:54 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/25/2022 11:54:55 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/25/2022 11:54:57 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:54:57 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:54:59 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:54:59 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:54:59 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:54:59 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:55:01 PM - LoginPage - INFO: Element Found with locator: //span[text()="Your username or password is invalid. Please try again."], using locator type: xpath
+05/25/2022 11:55:01 PM - LoginPage - INFO: Element Found
+05/25/2022 11:55:07 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - msedge :: Version :: 101.0.1210.53 :: platform :: mac os x
+05/25/2022 11:55:09 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/25/2022 11:55:10 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/25/2022 11:55:12 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:55:12 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:55:14 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:55:14 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:55:14 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:55:15 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:55:17 PM - NavigationPage - INFO: Element Found with locator: //a[contains(text(),'ALL COURSES')], using locator type: xpath
+05/25/2022 11:55:20 PM - NavigationPage - INFO: Clicked on the element with: //a[contains(text(),'ALL COURSES')]   locator type: xpath
+05/25/2022 11:55:20 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/25/2022 11:55:22 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/25/2022 11:55:22 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@id='search'], using locator type: xpath
+05/25/2022 11:55:22 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/25/2022 11:55:22 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/25/2022 11:55:23 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/25/2022 11:55:23 PM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/25/2022 11:55:23 PM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/25/2022 11:55:23 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/25/2022 11:55:23 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:55:23 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/25/2022 11:55:23 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/25/2022 11:55:23 PM - RegisterCoursesPage - INFO: Element Found with locator: // h4[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/25/2022 11:55:23 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/25/2022 11:55:23 PM - RegisterCoursesPage - DEBUG: After finding element, size is 24
+05/25/2022 11:55:23 PM - Util - INFO: Actual Text From Application Web UI --> :: JavaScript for beginners
+05/25/2022 11:55:23 PM - Util - INFO: Expected Text From Application Web UI --> :: JavaScript for beginners
+05/25/2022 11:55:23 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:55:23 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title Link is Present  ::
+05/25/2022 11:55:23 PM - RegisterCoursesPage - INFO: Element Found with locator: //h4[contains(text(), 'JavaScript for beginners')]/ancestor::div[@class='zen-course-list'], using locator type: xpath
+05/25/2022 11:55:26 PM - RegisterCoursesPage - INFO: Clicked on the element with: //h4[contains(text(), 'JavaScript for beginners')]/ancestor::div[@class='zen-course-list']   locator type: xpath
+05/25/2022 11:55:26 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[text()='Enroll in Course'], using locator type: xpath
+05/25/2022 11:55:32 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[text()='Enroll in Course']   locator type: xpath
+05/25/2022 11:55:32 PM - RegisterCoursesPage - INFO: Element Found with locator: //*[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/25/2022 11:55:32 PM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:55:32 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title is Present  ::
+05/25/2022 11:55:32 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-number > div > iframe, using locator type: css
+05/25/2022 11:55:32 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="6080a404e503a546a4c4b4edab431c83", element="a8e58e17-7ca0-4b8b-b852-b925684a6846")>
+05/25/2022 11:55:32 PM - RegisterCoursesPage - INFO: Element Found with locator: cardnumber, using locator type: name
+05/25/2022 11:55:33 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cardnumber  locatorType: name
+05/25/2022 11:55:33 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-expiry > div > iframe, using locator type: css
+05/25/2022 11:55:33 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="6080a404e503a546a4c4b4edab431c83", element="3c9aa423-e0da-4e26-a3d8-ba97383ab1e6")>
+05/25/2022 11:55:34 PM - RegisterCoursesPage - INFO: Element Found with locator: exp-date, using locator type: name
+05/25/2022 11:55:35 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: exp-date  locatorType: name
+05/25/2022 11:55:35 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-cvc > div > iframe, using locator type: css
+05/25/2022 11:55:35 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="6080a404e503a546a4c4b4edab431c83", element="ef4b2fec-3680-490d-8333-cd3e604f31d6")>
+05/25/2022 11:55:35 PM - RegisterCoursesPage - INFO: Element Found with locator: cvc, using locator type: name
+05/25/2022 11:55:35 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cvc  locatorType: name
+05/25/2022 11:55:35 PM - RegisterCoursesPage - INFO: Element Found with locator: button.zen-subscribe.sp-buy, using locator type: css
+05/25/2022 11:55:35 PM - RegisterCoursesPage - INFO: Clicked on the element with: button.zen-subscribe.sp-buy   locator type: css
+05/25/2022 11:55:37 PM - RegisterCoursesPage - INFO: Element Found with locator: div.has-error.card-errors span, using locator type: css
+05/25/2022 11:55:37 PM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:55:37 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Invalid Enrollment  ::
+05/25/2022 11:55:37 PM - TestStatus - INFO: ::  Test Invalid Enrollment  ::  ### TEST SUCCESSFUL ###
+05/25/2022 11:55:37 PM - NavigationPage - INFO: Element Found with locator: //a[contains(text(),'ALL COURSES')], using locator type: xpath
+05/25/2022 11:55:41 PM - NavigationPage - INFO: Clicked on the element with: //a[contains(text(),'ALL COURSES')]   locator type: xpath
+05/25/2022 11:55:41 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/25/2022 11:55:41 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/25/2022 11:55:41 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@id='search'], using locator type: xpath
+05/25/2022 11:55:41 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/25/2022 11:55:41 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/25/2022 11:55:42 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/25/2022 11:55:42 PM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/25/2022 11:55:42 PM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/25/2022 11:55:42 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/25/2022 11:55:42 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:55:42 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/25/2022 11:55:42 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/25/2022 11:55:42 PM - RegisterCoursesPage - INFO: Element Found with locator: // h4[contains(text(), 'Learn Python 3 from scratch')], using locator type: xpath
+05/25/2022 11:55:42 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/25/2022 11:55:42 PM - RegisterCoursesPage - DEBUG: After finding element, size is 27
+05/25/2022 11:55:42 PM - Util - INFO: Actual Text From Application Web UI --> :: Learn Python 3 from scratch
+05/25/2022 11:55:42 PM - Util - INFO: Expected Text From Application Web UI --> :: Learn Python 3 from scratch
+05/25/2022 11:55:42 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:55:42 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title Link is Present  ::
+05/25/2022 11:55:42 PM - RegisterCoursesPage - INFO: Element Found with locator: //h4[contains(text(), 'Learn Python 3 from scratch')]/ancestor::div[@class='zen-course-list'], using locator type: xpath
+05/25/2022 11:56:15 PM - RegisterCoursesPage - INFO: Clicked on the element with: //h4[contains(text(), 'Learn Python 3 from scratch')]/ancestor::div[@class='zen-course-list']   locator type: xpath
+05/25/2022 11:56:15 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[text()='Enroll in Course'], using locator type: xpath
+05/25/2022 11:56:51 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[text()='Enroll in Course']   locator type: xpath
+05/25/2022 11:56:51 PM - RegisterCoursesPage - INFO: Element Found with locator: //*[contains(text(), 'Learn Python 3 from scratch')], using locator type: xpath
+05/25/2022 11:56:51 PM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:56:51 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title is Present  ::
+05/25/2022 11:56:51 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-number > div > iframe, using locator type: css
+05/25/2022 11:56:51 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="6080a404e503a546a4c4b4edab431c83", element="f7faf73e-b81c-4aa6-903d-cc11d5153350")>
+05/25/2022 11:56:51 PM - RegisterCoursesPage - INFO: Element Found with locator: cardnumber, using locator type: name
+05/25/2022 11:56:52 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cardnumber  locatorType: name
+05/25/2022 11:56:52 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-expiry > div > iframe, using locator type: css
+05/25/2022 11:56:52 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="6080a404e503a546a4c4b4edab431c83", element="dfb859ac-382b-4ed2-92fb-e1509f74491f")>
+05/25/2022 11:56:52 PM - RegisterCoursesPage - INFO: Element Found with locator: exp-date, using locator type: name
+05/25/2022 11:56:54 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: exp-date  locatorType: name
+05/25/2022 11:56:54 PM - RegisterCoursesPage - INFO: Element Found with locator: #card-cvc > div > iframe, using locator type: css
+05/25/2022 11:56:54 PM - RegisterCoursesPage - INFO: Switch to frame with id: <selenium.webdriver.remote.webelement.WebElement (session="6080a404e503a546a4c4b4edab431c83", element="e561d9fb-e6fe-4f4a-9e3d-8bf83e8044b0")>
+05/25/2022 11:56:54 PM - RegisterCoursesPage - INFO: Element Found with locator: cvc, using locator type: name
+05/25/2022 11:56:55 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cvc  locatorType: name
+05/25/2022 11:56:55 PM - RegisterCoursesPage - INFO: Element Found with locator: button.zen-subscribe.sp-buy, using locator type: css
+05/25/2022 11:56:55 PM - RegisterCoursesPage - INFO: Clicked on the element with: button.zen-subscribe.sp-buy   locator type: css
+05/25/2022 11:56:55 PM - RegisterCoursesPage - INFO: Element Found with locator: div.has-error.card-errors span, using locator type: css
+05/25/2022 11:56:55 PM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:56:55 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Invalid Enrollment  ::
+05/25/2022 11:56:55 PM - TestStatus - INFO: ::  Test Invalid Enrollment  ::  ### TEST SUCCESSFUL ###
+05/25/2022 11:57:01 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - msedge :: Version :: 101.0.1210.53 :: platform :: mac os x
+05/25/2022 11:57:03 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/25/2022 11:57:04 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/25/2022 11:57:06 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:57:06 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:57:08 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:57:08 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:57:08 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:57:09 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:57:16 PM - LoginPage - INFO: Element not found with locator: //a[contains(text(),'Sign In')]/parent::div, , using locator type: xpath
+05/25/2022 11:57:16 PM - LoginPage - INFO: Cannot click on the element with: //a[contains(text(),'Sign In')]/parent::div    locator type: xpath
+05/25/2022 11:57:18 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:57:22 PM - LoginPage - INFO: Cannot Send Keys to element with locator: email  locatorType: id
+05/25/2022 11:57:27 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/25/2022 11:57:27 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/25/2022 11:57:30 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/25/2022 11:57:30 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/25/2022 11:57:32 PM - LoginPage - INFO: Title of Website found ::  My Courses
+05/25/2022 11:57:32 PM - Util - INFO: Actual Text From Application Web UI --> :: My Courses
+05/25/2022 11:57:32 PM - Util - INFO: Expected Text From Application Web UI --> :: My Courses
+05/25/2022 11:57:32 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:57:32 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Title is correct  ::
+05/25/2022 11:57:32 PM - LoginPage - INFO: Element Found with locator: h1, using locator type: tag
+05/25/2022 11:57:32 PM - LoginPage - INFO: Element Found
+05/25/2022 11:57:32 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Login was successful  ::
+05/25/2022 11:57:32 PM - TestStatus - INFO: ::  test_valid_login  ::  ### TEST SUCCESSFUL ###
+05/25/2022 11:57:38 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - Safari :: Version :: 15.4 :: platform :: macOS
+05/25/2022 11:57:40 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/25/2022 11:57:40 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/25/2022 11:57:42 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:57:42 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:57:44 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:57:44 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:57:44 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:57:44 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:57:46 PM - NavigationPage - INFO: Element Found with locator: //img[contains(@src, 'default-user-profile-pic')]/parent::button, using locator type: xpath
+05/25/2022 11:57:46 PM - NavigationPage - INFO: Clicked on the element with: //img[contains(@src, 'default-user-profile-pic')]/parent::button   locator type: xpath
+05/25/2022 11:57:46 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Logout')], using locator type: xpath
+05/25/2022 11:57:46 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Logout')]   locator type: xpath
+05/25/2022 11:57:48 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/25/2022 11:57:48 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/25/2022 11:57:50 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:57:50 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:57:52 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:57:53 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:57:53 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:57:53 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:57:55 PM - LoginPage - INFO: Element Found with locator: //span[text()="Your username or password is invalid. Please try again."], using locator type: xpath
+05/25/2022 11:57:55 PM - LoginPage - INFO: Element Found
+05/25/2022 11:57:57 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - Safari :: Version :: 15.4 :: platform :: macOS
+05/25/2022 11:57:59 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/25/2022 11:57:59 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/25/2022 11:58:01 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:58:02 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:58:04 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:58:04 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:58:04 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:58:04 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:58:06 PM - NavigationPage - INFO: Element Found with locator: //a[contains(text(),'ALL COURSES')], using locator type: xpath
+05/25/2022 11:58:06 PM - NavigationPage - INFO: Clicked on the element with: //a[contains(text(),'ALL COURSES')]   locator type: xpath
+05/25/2022 11:58:06 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/25/2022 11:58:06 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/25/2022 11:58:06 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@id='search'], , using locator type: xpath
+05/25/2022 11:58:06 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/25/2022 11:58:06 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/25/2022 11:58:08 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/25/2022 11:58:08 PM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/25/2022 11:58:08 PM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/25/2022 11:58:08 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/25/2022 11:58:08 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:58:08 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/25/2022 11:58:08 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/25/2022 11:58:08 PM - RegisterCoursesPage - INFO: Element Found with locator: // h4[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/25/2022 11:58:08 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/25/2022 11:58:08 PM - RegisterCoursesPage - DEBUG: After finding element, size is 54
+05/25/2022 11:58:08 PM - Util - INFO: Actual Text From Application Web UI --> :: 
+                JavaScript for beginners
+            
+05/25/2022 11:58:08 PM - Util - INFO: Expected Text From Application Web UI --> :: JavaScript for beginners
+05/25/2022 11:58:08 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:58:08 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title Link is Present  ::
+05/25/2022 11:58:08 PM - RegisterCoursesPage - INFO: Element Found with locator: //h4[contains(text(), 'JavaScript for beginners')]/ancestor::div[@class='zen-course-list'], using locator type: xpath
+05/25/2022 11:58:08 PM - RegisterCoursesPage - INFO: Clicked on the element with: //h4[contains(text(), 'JavaScript for beginners')]/ancestor::div[@class='zen-course-list']   locator type: xpath
+05/25/2022 11:58:09 PM - RegisterCoursesPage - INFO: Element not found with locator: //button[text()='Enroll in Course'], , using locator type: xpath
+05/25/2022 11:58:09 PM - RegisterCoursesPage - INFO: Cannot click on the element with: //button[text()='Enroll in Course']    locator type: xpath
+05/25/2022 11:58:09 PM - RegisterCoursesPage - INFO: Element Found with locator: //*[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/25/2022 11:58:09 PM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:58:09 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title is Present  ::
+05/25/2022 11:58:11 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-number > div > iframe, , using locator type: css
+05/25/2022 11:58:12 PM - RegisterCoursesPage - INFO: Element not found with locator: cardnumber, , using locator type: name
+05/25/2022 11:58:12 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: cardnumber  locatorType: name
+05/25/2022 11:58:13 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-expiry > div > iframe, , using locator type: css
+05/25/2022 11:58:14 PM - RegisterCoursesPage - INFO: Element not found with locator: exp-date, , using locator type: name
+05/25/2022 11:58:14 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: exp-date  locatorType: name
+05/25/2022 11:58:15 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-cvc > div > iframe, , using locator type: css
+05/25/2022 11:58:16 PM - RegisterCoursesPage - INFO: Element not found with locator: cvc, , using locator type: name
+05/25/2022 11:58:16 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: cvc  locatorType: name
+05/25/2022 11:58:17 PM - RegisterCoursesPage - INFO: Element not found with locator: button.zen-subscribe.sp-buy, , using locator type: css
+05/25/2022 11:58:17 PM - RegisterCoursesPage - INFO: Cannot click on the element with: button.zen-subscribe.sp-buy    locator type: css
+05/25/2022 11:58:20 PM - RegisterCoursesPage - INFO: Element not found with locator: div.has-error.card-errors span, , using locator type: css
+05/25/2022 11:58:20 PM - RegisterCoursesPage - INFO: Element not found
+05/25/2022 11:58:20 PM - TestStatus - INFO: #### VERIFICATION FAILED  ::  Verify Invalid Enrollment  ::
+05/25/2022 11:58:20 PM - TestStatus - INFO: Screenshot saved to directory:  /Users/andrespreciado/Code/test-framework/base/../screenshots/Verify Invalid Enrollment_1653548300149.png
+05/25/2022 11:58:20 PM - TestStatus - ERROR: ::  Test Invalid Enrollment  ::   ### TEST FAILED ###
+05/25/2022 11:58:20 PM - NavigationPage - INFO: Element Found with locator: //a[contains(text(),'ALL COURSES')], using locator type: xpath
+05/25/2022 11:58:20 PM - NavigationPage - INFO: Clicked on the element with: //a[contains(text(),'ALL COURSES')]   locator type: xpath
+05/25/2022 11:58:20 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/25/2022 11:58:20 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/25/2022 11:58:20 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@id='search'], , using locator type: xpath
+05/25/2022 11:58:20 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/25/2022 11:58:20 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/25/2022 11:58:22 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/25/2022 11:58:22 PM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/25/2022 11:58:22 PM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/25/2022 11:58:22 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/25/2022 11:58:22 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:58:22 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/25/2022 11:58:22 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/25/2022 11:58:25 PM - RegisterCoursesPage - INFO: Element not found with locator: // h4[contains(text(), 'Learn Python 3 from scratch')], , using locator type: xpath
+05/25/2022 11:58:25 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/25/2022 11:58:25 PM - RegisterCoursesPage - ERROR: Failed to get text on element 
+05/25/2022 11:58:25 PM - Util - INFO: Actual Text From Application Web UI --> :: None
+05/25/2022 11:58:25 PM - Util - INFO: Expected Text From Application Web UI --> :: Learn Python 3 from scratch
+05/25/2022 11:58:28 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - Safari :: Version :: 15.4 :: platform :: macOS
+05/25/2022 11:58:30 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/25/2022 11:58:30 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/25/2022 11:58:32 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:58:32 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:58:34 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:58:34 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:58:34 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:58:34 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:58:41 PM - LoginPage - INFO: Element not found with locator: //a[contains(text(),'Sign In')]/parent::div, , using locator type: xpath
+05/25/2022 11:58:41 PM - LoginPage - INFO: Cannot click on the element with: //a[contains(text(),'Sign In')]/parent::div    locator type: xpath
+05/25/2022 11:58:43 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:58:43 PM - LoginPage - INFO: Cannot Send Keys to element with locator: email  locatorType: id
+05/25/2022 11:58:48 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/25/2022 11:58:48 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/25/2022 11:58:51 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/25/2022 11:58:51 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/25/2022 11:58:53 PM - LoginPage - INFO: Title of Website found ::  My Courses
+05/25/2022 11:58:53 PM - Util - INFO: Actual Text From Application Web UI --> :: My Courses
+05/25/2022 11:58:53 PM - Util - INFO: Expected Text From Application Web UI --> :: My Courses
+05/25/2022 11:58:53 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:58:53 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Title is correct  ::
+05/25/2022 11:58:53 PM - LoginPage - INFO: Element Found with locator: h1, using locator type: tag
+05/25/2022 11:58:53 PM - LoginPage - INFO: Element Found
+05/25/2022 11:58:53 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Login was successful  ::
+05/25/2022 11:58:53 PM - TestStatus - INFO: ::  test_valid_login  ::  ### TEST SUCCESSFUL ###
+05/26/2022 12:07:16 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - Safari :: Version :: 15.4 :: platform :: macOS
+05/26/2022 12:07:18 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/26/2022 12:07:18 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/26/2022 12:07:20 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:07:21 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/26/2022 12:07:23 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:07:23 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:07:23 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:07:23 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:07:25 PM - NavigationPage - INFO: Element Found with locator: //img[contains(@src, 'default-user-profile-pic')]/parent::button, using locator type: xpath
+05/26/2022 12:07:25 PM - NavigationPage - INFO: Clicked on the element with: //img[contains(@src, 'default-user-profile-pic')]/parent::button   locator type: xpath
+05/26/2022 12:07:25 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Logout')], using locator type: xpath
+05/26/2022 12:07:25 PM - LoginPage - INFO: Cannot click on the element with: //a[contains(text(),'Logout')]    locator type: xpath
+05/26/2022 12:07:30 PM - LoginPage - INFO: Element not found with locator: //a[contains(text(),'Sign In')]/parent::div, , using locator type: xpath
+05/26/2022 12:07:30 PM - LoginPage - INFO: Cannot click on the element with: //a[contains(text(),'Sign In')]/parent::div    locator type: xpath
+05/26/2022 12:07:32 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:07:32 PM - LoginPage - INFO: Cannot Send Keys to element with locator: email  locatorType: id
+05/26/2022 12:07:37 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/26/2022 12:07:37 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/26/2022 12:07:40 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/26/2022 12:07:40 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/26/2022 12:07:46 PM - LoginPage - INFO: Element not found with locator: //span[text()="Your username or password is invalid. Please try again."], , using locator type: xpath
+05/26/2022 12:07:46 PM - LoginPage - INFO: Element not found
+05/26/2022 12:07:49 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - Safari :: Version :: 15.4 :: platform :: macOS
+05/26/2022 12:07:51 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/26/2022 12:07:51 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/26/2022 12:07:53 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:07:53 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/26/2022 12:07:55 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:07:55 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:07:55 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:07:55 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:07:57 PM - NavigationPage - INFO: Element Found with locator: //a[contains(text(),'ALL COURSES')], using locator type: xpath
+05/26/2022 12:07:57 PM - NavigationPage - INFO: Clicked on the element with: //a[contains(text(),'ALL COURSES')]   locator type: xpath
+05/26/2022 12:07:57 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/26/2022 12:07:57 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/26/2022 12:07:58 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@id='search'], , using locator type: xpath
+05/26/2022 12:07:58 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/26/2022 12:07:58 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/26/2022 12:07:59 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/26/2022 12:07:59 PM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/26/2022 12:07:59 PM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/26/2022 12:07:59 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/26/2022 12:07:59 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/26/2022 12:07:59 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/26/2022 12:07:59 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/26/2022 12:07:59 PM - RegisterCoursesPage - INFO: Element Found with locator: // h4[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/26/2022 12:07:59 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/26/2022 12:07:59 PM - RegisterCoursesPage - DEBUG: After finding element, size is 54
+05/26/2022 12:07:59 PM - Util - INFO: Actual Text From Application Web UI --> :: 
+                JavaScript for beginners
+            
+05/26/2022 12:07:59 PM - Util - INFO: Expected Text From Application Web UI --> :: JavaScript for beginners
+05/26/2022 12:07:59 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/26/2022 12:07:59 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title Link is Present  ::
+05/26/2022 12:07:59 PM - RegisterCoursesPage - INFO: Element Found with locator: //h4[contains(text(), 'JavaScript for beginners')]/ancestor::div[@class='zen-course-list'], using locator type: xpath
+05/26/2022 12:07:59 PM - RegisterCoursesPage - INFO: Clicked on the element with: //h4[contains(text(), 'JavaScript for beginners')]/ancestor::div[@class='zen-course-list']   locator type: xpath
+05/26/2022 12:08:00 PM - RegisterCoursesPage - INFO: Element not found with locator: //button[text()='Enroll in Course'], , using locator type: xpath
+05/26/2022 12:08:00 PM - RegisterCoursesPage - INFO: Cannot click on the element with: //button[text()='Enroll in Course']    locator type: xpath
+05/26/2022 12:08:00 PM - RegisterCoursesPage - INFO: Element Found with locator: //*[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/26/2022 12:08:00 PM - RegisterCoursesPage - INFO: Element Found
+05/26/2022 12:08:00 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title is Present  ::
+05/26/2022 12:08:02 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-number > div > iframe, , using locator type: css
+05/26/2022 12:08:03 PM - RegisterCoursesPage - INFO: Element not found with locator: cardnumber, , using locator type: name
+05/26/2022 12:08:03 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: cardnumber  locatorType: name
+05/26/2022 12:08:04 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-expiry > div > iframe, , using locator type: css
+05/26/2022 12:08:05 PM - RegisterCoursesPage - INFO: Element not found with locator: exp-date, , using locator type: name
+05/26/2022 12:08:05 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: exp-date  locatorType: name
+05/26/2022 12:08:07 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-cvc > div > iframe, , using locator type: css
+05/26/2022 12:08:08 PM - RegisterCoursesPage - INFO: Element not found with locator: cvc, , using locator type: name
+05/26/2022 12:08:08 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: cvc  locatorType: name
+05/26/2022 12:08:09 PM - RegisterCoursesPage - INFO: Element not found with locator: button.zen-subscribe.sp-buy, , using locator type: css
+05/26/2022 12:08:09 PM - RegisterCoursesPage - INFO: Cannot click on the element with: button.zen-subscribe.sp-buy    locator type: css
+05/26/2022 12:08:12 PM - RegisterCoursesPage - INFO: Element not found with locator: div.has-error.card-errors span, , using locator type: css
+05/26/2022 12:08:12 PM - RegisterCoursesPage - INFO: Element not found
+05/26/2022 12:08:12 PM - TestStatus - INFO: #### VERIFICATION FAILED  ::  Verify Invalid Enrollment  ::
+05/26/2022 12:08:12 PM - TestStatus - INFO: Screenshot saved to directory:  /Users/andrespreciado/Code/test-framework/base/../screenshots/Verify Invalid Enrollment_1653592092905.png
+05/26/2022 12:08:12 PM - TestStatus - ERROR: ::  Test Invalid Enrollment  ::   ### TEST FAILED ###
+05/26/2022 12:08:13 PM - NavigationPage - INFO: Element Found with locator: //a[contains(text(),'ALL COURSES')], using locator type: xpath
+05/26/2022 12:08:13 PM - NavigationPage - INFO: Clicked on the element with: //a[contains(text(),'ALL COURSES')]   locator type: xpath
+05/26/2022 12:08:13 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/26/2022 12:08:13 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/26/2022 12:08:13 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@id='search'], , using locator type: xpath
+05/26/2022 12:08:13 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/26/2022 12:08:13 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/26/2022 12:08:15 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/26/2022 12:08:15 PM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/26/2022 12:08:15 PM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/26/2022 12:08:15 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/26/2022 12:08:15 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/26/2022 12:08:15 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/26/2022 12:08:15 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/26/2022 12:08:17 PM - RegisterCoursesPage - INFO: Element not found with locator: // h4[contains(text(), 'Learn Python 3 from scratch')], , using locator type: xpath
+05/26/2022 12:08:17 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/26/2022 12:08:17 PM - RegisterCoursesPage - ERROR: Failed to get text on element 
+05/26/2022 12:08:18 PM - Util - INFO: Actual Text From Application Web UI --> :: None
+05/26/2022 12:08:18 PM - Util - INFO: Expected Text From Application Web UI --> :: Learn Python 3 from scratch
+05/26/2022 12:08:21 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - Safari :: Version :: 15.4 :: platform :: macOS
+05/26/2022 12:08:23 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/26/2022 12:08:23 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/26/2022 12:08:25 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:08:25 PM - LoginPage - INFO: Cannot Send Keys to element with locator: email  locatorType: id
+05/26/2022 12:08:30 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/26/2022 12:08:30 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/26/2022 12:08:34 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/26/2022 12:08:34 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/26/2022 12:08:38 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/26/2022 12:08:38 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/26/2022 12:08:40 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:08:40 PM - LoginPage - INFO: Cannot Send Keys to element with locator: email  locatorType: id
+05/26/2022 12:08:46 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/26/2022 12:08:46 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/26/2022 12:08:49 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/26/2022 12:08:49 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/26/2022 12:12:41 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - Safari :: Version :: 15.4 :: platform :: macOS
+05/26/2022 12:12:43 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/26/2022 12:12:44 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/26/2022 12:12:46 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:12:46 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/26/2022 12:12:48 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:12:48 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:12:48 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:12:48 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:12:50 PM - NavigationPage - INFO: Element Found with locator: //img[contains(@src, 'default-user-profile-pic')]/parent::button, using locator type: xpath
+05/26/2022 12:12:50 PM - NavigationPage - INFO: Clicked on the element with: //img[contains(@src, 'default-user-profile-pic')]/parent::button   locator type: xpath
+05/26/2022 12:12:50 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Logout')], using locator type: xpath
+05/26/2022 12:12:50 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Logout')]   locator type: xpath
+05/26/2022 12:12:52 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/26/2022 12:12:52 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/26/2022 12:12:54 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:12:54 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/26/2022 12:12:56 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:12:56 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:12:56 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:12:56 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:12:58 PM - LoginPage - INFO: Element Found with locator: //span[text()="Your username or password is invalid. Please try again."], using locator type: xpath
+05/26/2022 12:12:58 PM - LoginPage - INFO: Element Found
+05/26/2022 12:13:01 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - Safari :: Version :: 15.4 :: platform :: macOS
+05/26/2022 12:13:03 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/26/2022 12:13:03 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/26/2022 12:13:05 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:13:05 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/26/2022 12:13:07 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:13:08 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:13:08 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:13:08 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:13:10 PM - NavigationPage - INFO: Element Found with locator: //a[contains(text(),'ALL COURSES')], using locator type: xpath
+05/26/2022 12:13:10 PM - NavigationPage - INFO: Clicked on the element with: //a[contains(text(),'ALL COURSES')]   locator type: xpath
+05/26/2022 12:13:10 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/26/2022 12:13:10 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/26/2022 12:13:10 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@id='search'], , using locator type: xpath
+05/26/2022 12:13:10 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/26/2022 12:13:10 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/26/2022 12:13:11 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/26/2022 12:13:11 PM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/26/2022 12:13:11 PM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/26/2022 12:13:11 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/26/2022 12:13:11 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/26/2022 12:13:11 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/26/2022 12:13:11 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/26/2022 12:13:11 PM - RegisterCoursesPage - INFO: Element Found with locator: // h4[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/26/2022 12:13:11 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/26/2022 12:13:11 PM - RegisterCoursesPage - DEBUG: After finding element, size is 54
+05/26/2022 12:13:11 PM - Util - INFO: Actual Text From Application Web UI --> :: 
+                JavaScript for beginners
+            
+05/26/2022 12:13:11 PM - Util - INFO: Expected Text From Application Web UI --> :: JavaScript for beginners
+05/26/2022 12:13:11 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/26/2022 12:13:11 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title Link is Present  ::
+05/26/2022 12:13:11 PM - RegisterCoursesPage - INFO: Element Found with locator: //h4[contains(text(), 'JavaScript for beginners')]/ancestor::div[@class='zen-course-list'], using locator type: xpath
+05/26/2022 12:13:11 PM - RegisterCoursesPage - INFO: Clicked on the element with: //h4[contains(text(), 'JavaScript for beginners')]/ancestor::div[@class='zen-course-list']   locator type: xpath
+05/26/2022 12:13:12 PM - RegisterCoursesPage - INFO: Element not found with locator: //button[text()='Enroll in Course'], , using locator type: xpath
+05/26/2022 12:13:12 PM - RegisterCoursesPage - INFO: Cannot click on the element with: //button[text()='Enroll in Course']    locator type: xpath
+05/26/2022 12:13:12 PM - RegisterCoursesPage - INFO: Element Found with locator: //*[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/26/2022 12:13:12 PM - RegisterCoursesPage - INFO: Element Found
+05/26/2022 12:13:12 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title is Present  ::
+05/26/2022 12:13:14 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-number > div > iframe, , using locator type: css
+05/26/2022 12:13:15 PM - RegisterCoursesPage - INFO: Element not found with locator: cardnumber, , using locator type: name
+05/26/2022 12:13:15 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: cardnumber  locatorType: name
+05/26/2022 12:13:16 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-expiry > div > iframe, , using locator type: css
+05/26/2022 12:13:17 PM - RegisterCoursesPage - INFO: Element not found with locator: exp-date, , using locator type: name
+05/26/2022 12:13:17 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: exp-date  locatorType: name
+05/26/2022 12:13:18 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-cvc > div > iframe, , using locator type: css
+05/26/2022 12:13:19 PM - RegisterCoursesPage - INFO: Element not found with locator: cvc, , using locator type: name
+05/26/2022 12:13:19 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: cvc  locatorType: name
+05/26/2022 12:13:20 PM - RegisterCoursesPage - INFO: Element not found with locator: button.zen-subscribe.sp-buy, , using locator type: css
+05/26/2022 12:13:20 PM - RegisterCoursesPage - INFO: Cannot click on the element with: button.zen-subscribe.sp-buy    locator type: css
+05/26/2022 12:13:23 PM - RegisterCoursesPage - INFO: Element not found with locator: div.has-error.card-errors span, , using locator type: css
+05/26/2022 12:13:23 PM - RegisterCoursesPage - INFO: Element not found
+05/26/2022 12:13:23 PM - TestStatus - INFO: #### VERIFICATION FAILED  ::  Verify Invalid Enrollment  ::
+05/26/2022 12:13:23 PM - TestStatus - INFO: Screenshot saved to directory:  /Users/andrespreciado/Code/test-framework/base/../screenshots/Verify Invalid Enrollment_1653592403701.png
+05/26/2022 12:13:23 PM - TestStatus - ERROR: ::  Test Invalid Enrollment  ::   ### TEST FAILED ###
+05/26/2022 12:13:23 PM - NavigationPage - INFO: Element Found with locator: //a[contains(text(),'ALL COURSES')], using locator type: xpath
+05/26/2022 12:13:23 PM - NavigationPage - INFO: Clicked on the element with: //a[contains(text(),'ALL COURSES')]   locator type: xpath
+05/26/2022 12:13:23 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/26/2022 12:13:23 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/26/2022 12:13:24 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@id='search'], , using locator type: xpath
+05/26/2022 12:13:24 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/26/2022 12:13:24 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/26/2022 12:13:25 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/26/2022 12:13:25 PM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/26/2022 12:13:25 PM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/26/2022 12:13:25 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/26/2022 12:13:25 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/26/2022 12:13:25 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/26/2022 12:13:25 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/26/2022 12:13:28 PM - RegisterCoursesPage - INFO: Element not found with locator: // h4[contains(text(), 'Learn Python 3 from scratch')], , using locator type: xpath
+05/26/2022 12:13:28 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/26/2022 12:13:28 PM - RegisterCoursesPage - ERROR: Failed to get text on element 
+05/26/2022 12:13:28 PM - Util - INFO: Actual Text From Application Web UI --> :: None
+05/26/2022 12:13:28 PM - Util - INFO: Expected Text From Application Web UI --> :: Learn Python 3 from scratch
+05/26/2022 12:13:32 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - Safari :: Version :: 15.4 :: platform :: macOS
+05/26/2022 12:13:34 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/26/2022 12:13:34 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/26/2022 12:13:36 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:13:36 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/26/2022 12:13:38 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:13:38 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:13:38 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:13:38 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:13:45 PM - LoginPage - INFO: Element not found with locator: //a[contains(text(),'Sign In')]/parent::div, , using locator type: xpath
+05/26/2022 12:13:45 PM - LoginPage - INFO: Cannot click on the element with: //a[contains(text(),'Sign In')]/parent::div    locator type: xpath
+05/26/2022 12:13:47 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:13:47 PM - LoginPage - INFO: Cannot Send Keys to element with locator: email  locatorType: id
+05/26/2022 12:13:51 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/26/2022 12:13:51 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/26/2022 12:13:51 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/26/2022 12:13:51 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/26/2022 12:17:08 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - Safari :: Version :: 15.4 :: platform :: macOS
+05/26/2022 12:17:10 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/26/2022 12:17:10 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/26/2022 12:17:12 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:17:12 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/26/2022 12:17:14 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:17:14 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:17:14 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:17:14 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:17:16 PM - NavigationPage - INFO: Element Found with locator: //img[contains(@src, 'default-user-profile-pic')]/parent::button, using locator type: xpath
+05/26/2022 12:17:16 PM - NavigationPage - INFO: Clicked on the element with: //img[contains(@src, 'default-user-profile-pic')]/parent::button   locator type: xpath
+05/26/2022 12:17:16 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Logout')], using locator type: xpath
+05/26/2022 12:17:16 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Logout')]   locator type: xpath
+05/26/2022 12:17:18 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/26/2022 12:17:18 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/26/2022 12:17:20 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:17:20 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/26/2022 12:17:22 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:17:22 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:17:22 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:17:22 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:17:24 PM - LoginPage - INFO: Element Found with locator: //span[text()="Your username or password is invalid. Please try again."], using locator type: xpath
+05/26/2022 12:17:24 PM - LoginPage - INFO: Element Found
+05/26/2022 12:17:28 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - Safari :: Version :: 15.4 :: platform :: macOS
+05/26/2022 12:17:30 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/26/2022 12:17:30 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/26/2022 12:17:32 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:17:32 PM - LoginPage - INFO: Cannot Send Keys to element with locator: email  locatorType: id
+05/26/2022 12:17:39 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/26/2022 12:17:39 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/26/2022 12:17:44 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/26/2022 12:17:44 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/26/2022 12:17:46 PM - NavigationPage - INFO: Element Found with locator: //a[contains(text(),'ALL COURSES')], using locator type: xpath
+05/26/2022 12:17:46 PM - NavigationPage - INFO: Clicked on the element with: //a[contains(text(),'ALL COURSES')]   locator type: xpath
+05/26/2022 12:17:46 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/26/2022 12:17:46 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/26/2022 12:17:49 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@id='search'], , using locator type: xpath
+05/26/2022 12:17:49 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/26/2022 12:17:50 PM - RegisterCoursesPage - INFO: Element not found with locator: //button[@type='submit'], , using locator type: xpath
+05/26/2022 12:17:50 PM - RegisterCoursesPage - INFO: Cannot click on the element with: //button[@type='submit']    locator type: xpath
+05/26/2022 12:17:50 PM - RegisterCoursesPage - INFO: Title of Website found ::  Home Page
+05/26/2022 12:17:50 PM - Util - INFO: Actual Text From Application Web UI --> :: Home Page
+05/26/2022 12:17:50 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/26/2022 12:17:50 PM - Util - INFO: ### VERIFICATION DOES NOT CONTAIN TEXT !!!
+05/26/2022 12:17:50 PM - TestStatus - INFO: #### VERIFICATION FAILED  ::  Verify Page Title is 'All Courses'  ::
+05/26/2022 12:17:51 PM - TestStatus - INFO: Screenshot saved to directory:  /Users/andrespreciado/Code/test-framework/base/../screenshots/Verify Page Title is 'All Courses'_1653592670975.png
+05/26/2022 12:17:51 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/26/2022 12:17:51 PM - RegisterCoursesPage - INFO: Element Found with locator: // h4[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/26/2022 12:17:51 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/26/2022 12:17:51 PM - RegisterCoursesPage - DEBUG: After finding element, size is 54
+05/26/2022 12:17:51 PM - Util - INFO: Actual Text From Application Web UI --> :: 
+                JavaScript for beginners
+            
+05/26/2022 12:17:51 PM - Util - INFO: Expected Text From Application Web UI --> :: JavaScript for beginners
+05/26/2022 12:17:51 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/26/2022 12:17:51 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title Link is Present  ::
+05/26/2022 12:17:51 PM - RegisterCoursesPage - INFO: Element Found with locator: //h4[contains(text(), 'JavaScript for beginners')]/ancestor::div[@class='zen-course-list'], using locator type: xpath
+05/26/2022 12:17:51 PM - RegisterCoursesPage - INFO: Clicked on the element with: //h4[contains(text(), 'JavaScript for beginners')]/ancestor::div[@class='zen-course-list']   locator type: xpath
+05/26/2022 12:17:53 PM - RegisterCoursesPage - INFO: Element not found with locator: //button[text()='Enroll in Course'], , using locator type: xpath
+05/26/2022 12:17:53 PM - RegisterCoursesPage - INFO: Cannot click on the element with: //button[text()='Enroll in Course']    locator type: xpath
+05/26/2022 12:17:53 PM - RegisterCoursesPage - INFO: Element Found with locator: //*[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/26/2022 12:17:53 PM - RegisterCoursesPage - INFO: Element Found
+05/26/2022 12:17:53 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title is Present  ::
+05/26/2022 12:17:56 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-number > div > iframe, , using locator type: css
+05/26/2022 12:17:57 PM - RegisterCoursesPage - INFO: Element not found with locator: cardnumber, , using locator type: name
+05/26/2022 12:17:57 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: cardnumber  locatorType: name
+05/26/2022 12:17:59 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-expiry > div > iframe, , using locator type: css
+05/26/2022 12:18:00 PM - RegisterCoursesPage - INFO: Element not found with locator: exp-date, , using locator type: name
+05/26/2022 12:18:00 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: exp-date  locatorType: name
+05/26/2022 12:18:02 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-cvc > div > iframe, , using locator type: css
+05/26/2022 12:18:03 PM - RegisterCoursesPage - INFO: Element not found with locator: cvc, , using locator type: name
+05/26/2022 12:18:03 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: cvc  locatorType: name
+05/26/2022 12:18:05 PM - RegisterCoursesPage - INFO: Element not found with locator: button.zen-subscribe.sp-buy, , using locator type: css
+05/26/2022 12:18:05 PM - RegisterCoursesPage - INFO: Cannot click on the element with: button.zen-subscribe.sp-buy    locator type: css
+05/26/2022 12:18:08 PM - RegisterCoursesPage - INFO: Element not found with locator: div.has-error.card-errors span, , using locator type: css
+05/26/2022 12:18:08 PM - RegisterCoursesPage - INFO: Element not found
+05/26/2022 12:18:08 PM - TestStatus - INFO: #### VERIFICATION FAILED  ::  Verify Invalid Enrollment  ::
+05/26/2022 12:18:09 PM - TestStatus - INFO: Screenshot saved to directory:  /Users/andrespreciado/Code/test-framework/base/../screenshots/Verify Invalid Enrollment_1653592688942.png
+05/26/2022 12:18:09 PM - TestStatus - ERROR: ::  Test Invalid Enrollment  ::   ### TEST FAILED ###
+05/26/2022 12:18:09 PM - NavigationPage - INFO: Element Found with locator: //a[contains(text(),'ALL COURSES')], using locator type: xpath
+05/26/2022 12:18:09 PM - NavigationPage - INFO: Clicked on the element with: //a[contains(text(),'ALL COURSES')]   locator type: xpath
+05/26/2022 12:18:09 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/26/2022 12:18:09 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/26/2022 12:18:11 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@id='search'], , using locator type: xpath
+05/26/2022 12:18:11 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/26/2022 12:18:13 PM - RegisterCoursesPage - INFO: Element not found with locator: //button[@type='submit'], , using locator type: xpath
+05/26/2022 12:18:13 PM - RegisterCoursesPage - INFO: Cannot click on the element with: //button[@type='submit']    locator type: xpath
+05/26/2022 12:18:13 PM - RegisterCoursesPage - INFO: Title of Website found ::  Home Page
+05/26/2022 12:18:13 PM - Util - INFO: Actual Text From Application Web UI --> :: Home Page
+05/26/2022 12:18:13 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/26/2022 12:18:13 PM - Util - INFO: ### VERIFICATION DOES NOT CONTAIN TEXT !!!
+05/26/2022 12:18:13 PM - TestStatus - INFO: #### VERIFICATION FAILED  ::  Verify Page Title is 'All Courses'  ::
+05/26/2022 12:18:13 PM - TestStatus - INFO: Screenshot saved to directory:  /Users/andrespreciado/Code/test-framework/base/../screenshots/Verify Page Title is 'All Courses'_1653592693218.png
+05/26/2022 12:18:13 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/26/2022 12:18:13 PM - RegisterCoursesPage - INFO: Element Found with locator: // h4[contains(text(), 'Learn Python 3 from scratch')], using locator type: xpath
+05/26/2022 12:18:13 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/26/2022 12:18:13 PM - RegisterCoursesPage - DEBUG: After finding element, size is 27
+05/26/2022 12:18:13 PM - Util - INFO: Actual Text From Application Web UI --> :: Learn Python 3 from scratch
+05/26/2022 12:18:13 PM - Util - INFO: Expected Text From Application Web UI --> :: Learn Python 3 from scratch
+05/26/2022 12:18:13 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/26/2022 12:18:13 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title Link is Present  ::
+05/26/2022 12:18:13 PM - RegisterCoursesPage - INFO: Element Found with locator: //h4[contains(text(), 'Learn Python 3 from scratch')]/ancestor::div[@class='zen-course-list'], using locator type: xpath
+05/26/2022 12:18:13 PM - RegisterCoursesPage - INFO: Clicked on the element with: //h4[contains(text(), 'Learn Python 3 from scratch')]/ancestor::div[@class='zen-course-list']   locator type: xpath
+05/26/2022 12:18:16 PM - RegisterCoursesPage - INFO: Element not found with locator: //button[text()='Enroll in Course'], , using locator type: xpath
+05/26/2022 12:18:16 PM - RegisterCoursesPage - INFO: Cannot click on the element with: //button[text()='Enroll in Course']    locator type: xpath
+05/26/2022 12:18:16 PM - RegisterCoursesPage - INFO: Element Found with locator: //*[contains(text(), 'Learn Python 3 from scratch')], using locator type: xpath
+05/26/2022 12:18:16 PM - RegisterCoursesPage - INFO: Element Found
+05/26/2022 12:18:16 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title is Present  ::
+05/26/2022 12:18:18 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-number > div > iframe, , using locator type: css
+05/26/2022 12:18:20 PM - RegisterCoursesPage - INFO: Element not found with locator: cardnumber, , using locator type: name
+05/26/2022 12:18:20 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: cardnumber  locatorType: name
+05/26/2022 12:18:21 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-expiry > div > iframe, , using locator type: css
+05/26/2022 12:18:23 PM - RegisterCoursesPage - INFO: Element not found with locator: exp-date, , using locator type: name
+05/26/2022 12:18:23 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: exp-date  locatorType: name
+05/26/2022 12:18:24 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-cvc > div > iframe, , using locator type: css
+05/26/2022 12:18:26 PM - RegisterCoursesPage - INFO: Element not found with locator: cvc, , using locator type: name
+05/26/2022 12:18:26 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: cvc  locatorType: name
+05/26/2022 12:18:27 PM - RegisterCoursesPage - INFO: Element not found with locator: button.zen-subscribe.sp-buy, , using locator type: css
+05/26/2022 12:18:27 PM - RegisterCoursesPage - INFO: Cannot click on the element with: button.zen-subscribe.sp-buy    locator type: css
+05/26/2022 12:18:31 PM - RegisterCoursesPage - INFO: Element not found with locator: div.has-error.card-errors span, , using locator type: css
+05/26/2022 12:18:31 PM - RegisterCoursesPage - INFO: Element not found
+05/26/2022 12:18:31 PM - TestStatus - INFO: #### VERIFICATION FAILED  ::  Verify Invalid Enrollment  ::
+05/26/2022 12:18:31 PM - TestStatus - INFO: Screenshot saved to directory:  /Users/andrespreciado/Code/test-framework/base/../screenshots/Verify Invalid Enrollment_1653592711154.png
+05/26/2022 12:18:31 PM - TestStatus - ERROR: ::  Test Invalid Enrollment  ::   ### TEST FAILED ###
+05/26/2022 12:18:35 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - Safari :: Version :: 15.4 :: platform :: macOS
+05/26/2022 12:19:34 PM - LoginPage - INFO: Element not found with locator: //a[contains(text(),'Sign In')]/parent::div, , using locator type: xpath
+05/26/2022 12:19:34 PM - LoginPage - INFO: Cannot click on the element with: //a[contains(text(),'Sign In')]/parent::div    locator type: xpath
+05/26/2022 12:20:19 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - Safari :: Version :: 15.4 :: platform :: macOS
+05/26/2022 12:20:21 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/26/2022 12:20:21 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/26/2022 12:20:23 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:20:23 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/26/2022 12:20:25 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:20:25 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:20:25 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:20:25 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:20:27 PM - NavigationPage - INFO: Element Found with locator: //img[contains(@src, 'default-user-profile-pic')]/parent::button, using locator type: xpath
+05/26/2022 12:20:27 PM - NavigationPage - INFO: Clicked on the element with: //img[contains(@src, 'default-user-profile-pic')]/parent::button   locator type: xpath
+05/26/2022 12:20:27 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Logout')], using locator type: xpath
+05/26/2022 12:20:27 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Logout')]   locator type: xpath
+05/26/2022 12:20:29 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/26/2022 12:20:29 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/26/2022 12:20:31 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:20:31 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/26/2022 12:20:33 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:20:33 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:20:33 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:20:33 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:20:35 PM - LoginPage - INFO: Element Found with locator: //span[text()="Your username or password is invalid. Please try again."], using locator type: xpath
+05/26/2022 12:20:35 PM - LoginPage - INFO: Element Found
+05/26/2022 12:20:38 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - Safari :: Version :: 15.4 :: platform :: macOS
+05/26/2022 12:20:40 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/26/2022 12:20:40 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/26/2022 12:20:42 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:20:42 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/26/2022 12:20:44 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:20:44 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:20:44 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/26/2022 12:20:44 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/26/2022 12:20:46 PM - NavigationPage - INFO: Element Found with locator: //a[contains(text(),'ALL COURSES')], using locator type: xpath
+05/26/2022 12:20:46 PM - NavigationPage - INFO: Clicked on the element with: //a[contains(text(),'ALL COURSES')]   locator type: xpath
+05/26/2022 12:20:46 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/26/2022 12:20:46 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/26/2022 12:20:47 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@id='search'], , using locator type: xpath
+05/26/2022 12:20:47 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/26/2022 12:20:47 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/26/2022 12:20:48 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/26/2022 12:20:48 PM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/26/2022 12:20:48 PM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/26/2022 12:20:48 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/26/2022 12:20:48 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/26/2022 12:20:48 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/26/2022 12:20:48 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/26/2022 12:20:48 PM - RegisterCoursesPage - INFO: Element Found with locator: // h4[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/26/2022 12:20:48 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/26/2022 12:20:48 PM - RegisterCoursesPage - DEBUG: After finding element, size is 54
+05/26/2022 12:20:48 PM - Util - INFO: Actual Text From Application Web UI --> :: 
+                JavaScript for beginners
+            
+05/26/2022 12:20:48 PM - Util - INFO: Expected Text From Application Web UI --> :: JavaScript for beginners
+05/26/2022 12:20:48 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/26/2022 12:20:48 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title Link is Present  ::
+05/26/2022 12:20:48 PM - RegisterCoursesPage - INFO: Element Found with locator: //h4[contains(text(), 'JavaScript for beginners')]/ancestor::div[@class='zen-course-list'], using locator type: xpath
+05/26/2022 12:20:48 PM - RegisterCoursesPage - INFO: Clicked on the element with: //h4[contains(text(), 'JavaScript for beginners')]/ancestor::div[@class='zen-course-list']   locator type: xpath
+05/26/2022 12:20:49 PM - RegisterCoursesPage - INFO: Element not found with locator: //button[text()='Enroll in Course'], , using locator type: xpath
+05/26/2022 12:20:49 PM - RegisterCoursesPage - INFO: Cannot click on the element with: //button[text()='Enroll in Course']    locator type: xpath
+05/26/2022 12:20:49 PM - RegisterCoursesPage - INFO: Element Found with locator: //*[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/26/2022 12:20:49 PM - RegisterCoursesPage - INFO: Element Found
+05/26/2022 12:20:49 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title is Present  ::
+05/26/2022 12:20:51 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-number > div > iframe, , using locator type: css
+05/26/2022 12:20:52 PM - RegisterCoursesPage - INFO: Element not found with locator: cardnumber, , using locator type: name
+05/26/2022 12:20:52 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: cardnumber  locatorType: name
+05/26/2022 12:20:53 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-expiry > div > iframe, , using locator type: css
+05/26/2022 12:20:54 PM - RegisterCoursesPage - INFO: Element not found with locator: exp-date, , using locator type: name
+05/26/2022 12:20:54 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: exp-date  locatorType: name
+05/26/2022 12:20:55 PM - RegisterCoursesPage - INFO: Element not found with locator: #card-cvc > div > iframe, , using locator type: css
+05/26/2022 12:20:56 PM - RegisterCoursesPage - INFO: Element not found with locator: cvc, , using locator type: name
+05/26/2022 12:20:56 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: cvc  locatorType: name
+05/26/2022 12:20:57 PM - RegisterCoursesPage - INFO: Element not found with locator: button.zen-subscribe.sp-buy, , using locator type: css
+05/26/2022 12:20:57 PM - RegisterCoursesPage - INFO: Cannot click on the element with: button.zen-subscribe.sp-buy    locator type: css
+05/26/2022 12:21:00 PM - RegisterCoursesPage - INFO: Element not found with locator: div.has-error.card-errors span, , using locator type: css
+05/26/2022 12:21:00 PM - RegisterCoursesPage - INFO: Element not found
+05/26/2022 12:21:00 PM - TestStatus - INFO: #### VERIFICATION FAILED  ::  Verify Invalid Enrollment  ::
+05/26/2022 12:21:00 PM - TestStatus - INFO: Screenshot saved to directory:  /Users/andrespreciado/Code/test-framework/base/../screenshots/Verify Invalid Enrollment_1653592860693.png
+05/26/2022 12:21:00 PM - TestStatus - ERROR: ::  Test Invalid Enrollment  ::   ### TEST FAILED ###
+05/26/2022 12:21:00 PM - NavigationPage - INFO: Element Found with locator: //a[contains(text(),'ALL COURSES')], using locator type: xpath
+05/26/2022 12:21:00 PM - NavigationPage - INFO: Clicked on the element with: //a[contains(text(),'ALL COURSES')]   locator type: xpath
+05/26/2022 12:21:00 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/26/2022 12:21:00 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/26/2022 12:21:01 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@id='search'], , using locator type: xpath
+05/26/2022 12:21:01 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/26/2022 12:21:01 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/26/2022 12:21:02 PM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/26/2022 12:21:02 PM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/26/2022 12:21:02 PM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/26/2022 12:21:02 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/26/2022 12:21:02 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/26/2022 12:21:02 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/26/2022 12:21:02 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/26/2022 12:21:05 PM - RegisterCoursesPage - INFO: Element not found with locator: // h4[contains(text(), 'Learn Python 3 from scratch')], , using locator type: xpath
+05/26/2022 12:21:05 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/26/2022 12:21:05 PM - RegisterCoursesPage - ERROR: Failed to get text on element 
+05/26/2022 12:21:05 PM - Util - INFO: Actual Text From Application Web UI --> :: None
+05/26/2022 12:21:05 PM - Util - INFO: Expected Text From Application Web UI --> :: Learn Python 3 from scratch
+05/26/2022 12:21:09 PM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://courses.letskodeit.com/ :: Browser - Safari :: Version :: 15.4 :: platform :: macOS
+05/26/2022 12:21:11 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/26/2022 12:21:11 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/26/2022 12:21:13 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:21:13 PM - LoginPage - INFO: Cannot Send Keys to element with locator: email  locatorType: id
+05/26/2022 12:21:20 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/26/2022 12:21:20 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/26/2022 12:21:26 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/26/2022 12:21:26 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/26/2022 12:21:30 PM - LoginPage - INFO: Element Found with locator: //a[contains(text(),'Sign In')]/parent::div, using locator type: xpath
+05/26/2022 12:21:30 PM - LoginPage - INFO: Clicked on the element with: //a[contains(text(),'Sign In')]/parent::div   locator type: xpath
+05/26/2022 12:21:32 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/26/2022 12:21:32 PM - LoginPage - INFO: Cannot Send Keys to element with locator: email  locatorType: id
+05/26/2022 12:21:39 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/26/2022 12:21:39 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/26/2022 12:21:45 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/26/2022 12:21:45 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/26/2022 12:21:47 PM - LoginPage - INFO: Title of Website found ::  Home Page
+05/26/2022 12:21:47 PM - Util - INFO: Actual Text From Application Web UI --> :: Home Page
+05/26/2022 12:21:47 PM - Util - INFO: Expected Text From Application Web UI --> :: My Courses
+05/26/2022 12:21:47 PM - Util - INFO: ### VERIFICATION DOES NOT CONTAIN TEXT !!!
+05/26/2022 12:21:47 PM - TestStatus - INFO: #### VERIFICATION FAILED  ::  Title is correct  ::
+05/26/2022 12:21:47 PM - TestStatus - INFO: Screenshot saved to directory:  /Users/andrespreciado/Code/test-framework/base/../screenshots/Title is correct_1653592907354.png
+05/26/2022 12:21:47 PM - LoginPage - INFO: Element Found with locator: h1, using locator type: tag
+05/26/2022 12:21:47 PM - LoginPage - INFO: Element Found
+05/26/2022 12:21:47 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Login was successful  ::
+05/26/2022 12:21:47 PM - TestStatus - ERROR: ::  test_valid_login  ::   ### TEST FAILED ###

@@ -1,0 +1,117 @@
+1653372130889	geckodriver	INFO	Listening on 127.0.0.1:63052
+1653372131411	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63053" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileOehK7p"
+1653372131838	Marionette	INFO	Marionette enabled
+2022-05-23 23:02:11.854 plugin-container[13320:1916521] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:02:11.855 plugin-container[13320:1916521] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 23:02:11.897 plugin-container[13320:1916521] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:02:11.897 plugin-container[13320:1916521] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 23:02:11.897 plugin-container[13320:1916519] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:02:11.897 plugin-container[13320:1916519] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileOehK7p/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:63053/devtools/browser/a51ae22e-1b33-4600-a781-7bbc357d8ae1
+1653372133111	Marionette	INFO	Listening on port 63081
+Read port: 63081
+1653372133187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1653372158573	Marionette	INFO	Stopped listening on port 63081
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653372394869	geckodriver	INFO	Listening on 127.0.0.1:64265
+1653372395373	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64266" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofiler8ASbB"
+2022-05-23 23:06:35.678 plugin-container[13517:1919806] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:06:35.678 plugin-container[13517:1919806] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1653372395683	Marionette	INFO	Marionette enabled
+2022-05-23 23:06:35.701 plugin-container[13517:1919806] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:06:35.701 plugin-container[13517:1919806] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 23:06:35.702 plugin-container[13517:1919808] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:06:35.702 plugin-container[13517:1919808] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofiler8ASbB/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:64266/devtools/browser/b2a0c999-0000-4bce-88fc-5ded8a669802
+1653372396740	Marionette	INFO	Listening on port 64284
+Read port: 64284
+1653372396828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1653372424739	geckodriver	INFO	Listening on 127.0.0.1:64466
+1653372424745	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64467" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileGigbh2"
+1653372425111	Marionette	INFO	Marionette enabled
+2022-05-23 23:07:05.114 plugin-container[13547:1920618] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:07:05.115 plugin-container[13547:1920618] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 23:07:05.130 plugin-container[13547:1920618] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:07:05.130 plugin-container[13547:1920618] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 23:07:05.131 plugin-container[13547:1920640] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:07:05.131 plugin-container[13547:1920640] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileGigbh2/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:64467/devtools/browser/004b1a44-4d25-40a9-bd19-d1bf94043748
+1653372426071	Marionette	INFO	Listening on port 64489
+Read port: 64489
+1653372426108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80024, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80024, line 564: unreachable code after return statement
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 402))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:402:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:53:25
+send@resource://devtools/server/devtools-server-connection.js:99:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1070:10
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+[ERROR osclientcerts_static] ThreadId(5) C_FindObjectsInit: CKR_ARGUMENTS_BAD: ExternalError at security/manager/ssl/osclientcerts/src/backend_macos.rs:921 (-25300)
+[ERROR osclientcerts_static] ThreadId(5) C_FindObjectsInit: CKR_ARGUMENTS_BAD: ExternalError at security/manager/ssl/osclientcerts/src/backend_macos.rs:921 (-25300)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1653373845662	geckodriver	INFO	Listening on 127.0.0.1:54270
+1653373846177	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54271" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileN0AW8h"
+2022-05-23 23:30:46.476 plugin-container[14653:1938650] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:30:46.476 plugin-container[14653:1938650] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 23:30:46.480 plugin-container[14653:1938650] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:30:46.480 plugin-container[14653:1938650] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 23:30:46.480 plugin-container[14653:1938657] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:30:46.480 plugin-container[14653:1938657] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1653373846482	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileN0AW8h/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54271/devtools/browser/a7c5b628-10c3-4cd5-917a-169d213964e0
+1653373847480	Marionette	INFO	Listening on port 54288
+Read port: 54288
+1653373847546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+[ERROR osclientcerts_static] ThreadId(5) C_FindObjectsInit: CKR_ARGUMENTS_BAD: ExternalError at security/manager/ssl/osclientcerts/src/backend_macos.rs:921 (-25300)
+1653375081288	Marionette	INFO	Stopped listening on port 54288
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+

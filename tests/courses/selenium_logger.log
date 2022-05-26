@@ -1,0 +1,125 @@
+05/23/2022 05:37:31 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/23/2022 05:37:32 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/23/2022 05:37:32 PM - LoginPage - INFO: Element Found with locator: email
+05/23/2022 05:37:32 PM - LoginPage - INFO: Element Found with locator: password
+05/23/2022 05:37:32 PM - LoginPage - INFO: Element Found with locator: email
+05/23/2022 05:37:32 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/23/2022 05:37:32 PM - LoginPage - INFO: Element Found with locator: password
+05/23/2022 05:37:32 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/23/2022 05:37:32 PM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/23/2022 05:37:33 PM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/23/2022 05:37:33 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses']
+05/23/2022 05:37:35 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/23/2022 06:14:33 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/23/2022 06:14:34 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/23/2022 06:14:34 PM - LoginPage - INFO: Element Found with locator: email
+05/23/2022 06:14:34 PM - LoginPage - INFO: Element Found with locator: password
+05/23/2022 06:14:34 PM - LoginPage - INFO: Element Found with locator: email
+05/23/2022 06:14:34 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/23/2022 06:14:34 PM - LoginPage - INFO: Element Found with locator: password
+05/23/2022 06:14:34 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/23/2022 06:14:34 PM - LoginPage - INFO: Element Found with locator: //input[@type="submit"]
+05/23/2022 06:14:35 PM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/23/2022 06:14:35 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses']
+05/23/2022 06:14:37 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/23/2022 07:02:52 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login'], using locator type: xpath
+05/23/2022 07:02:53 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/23/2022 07:02:53 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/23/2022 07:02:53 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/23/2022 07:02:53 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/23/2022 07:02:53 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/23/2022 07:02:53 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/23/2022 07:02:53 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/23/2022 07:02:53 PM - LoginPage - INFO: Element Found with locator: //input[@type="submit"], using locator type: xpath
+05/23/2022 07:02:54 PM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/23/2022 07:02:54 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/23/2022 07:02:56 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/23/2022 07:02:56 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@id='search'], using locator type: xpath
+05/23/2022 07:02:57 PM - RegisterCoursesPage - INFO: Sent Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/23/2022 07:02:57 PM - RegisterCoursesPage - INFO: Element Found with locator: //*[@id='search']//button, using locator type: xpath
+05/23/2022 07:02:57 PM - RegisterCoursesPage - INFO: Clicked on the element with: //*[@id='search']//button   locator type: xpath
+05/23/2022 07:02:57 PM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/23/2022 07:02:57 PM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/23/2022 07:02:57 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/23/2022 07:02:57 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/23/2022 07:02:57 PM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/23/2022 07:02:57 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/23/2022 07:02:57 PM - RegisterCoursesPage - INFO: Element Found with locator: // h4[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/23/2022 07:02:57 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/23/2022 07:02:57 PM - RegisterCoursesPage - DEBUG: After finding element, size is 24
+05/23/2022 07:02:57 PM - Util - INFO: Actual Text From Application Web UI --> :: JavaScript for beginners
+05/23/2022 07:02:57 PM - Util - INFO: Expected Text From Application Web UI --> :: JavaScript for beginners
+05/23/2022 07:02:57 PM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/23/2022 11:01:51 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login'], using locator type: xpath
+05/23/2022 11:01:53 PM - LoginPage - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/23/2022 11:01:53 PM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/23/2022 11:01:53 PM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/23/2022 11:01:53 PM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/23/2022 11:01:53 PM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/23/2022 11:01:53 PM - LoginPage - INFO: Element Found with locator: //input[@type="submit"], using locator type: xpath
+05/23/2022 11:01:53 PM - LoginPage - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath
+05/23/2022 11:01:53 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/23/2022 11:01:54 PM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/23/2022 11:01:54 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@id='search'], , using locator type: xpath
+05/23/2022 11:01:54 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/23/2022 11:01:54 PM - RegisterCoursesPage - INFO: Element not found with locator: //*[@id='search']//button, , using locator type: xpath
+05/23/2022 11:01:54 PM - RegisterCoursesPage - INFO: Cannot click on the element with: //*[@id='search']//button    locator type: xpath
+05/23/2022 11:01:54 PM - Util - INFO: Wait :: '2' seconds for 
+05/23/2022 11:01:56 PM - RegisterCoursesPage - INFO: Title of Website not found
+05/23/2022 11:01:56 PM - Util - INFO: Actual Text From Application Web UI --> :: None
+05/23/2022 11:01:56 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/23/2022 11:01:56 PM - RegisterCoursesPage - ERROR: Failed to get the page title
+05/23/2022 11:01:56 PM - TestStatus - INFO: #### VERIFICATION FAILED  ::  Verify Page Title is 'All Courses'  ::
+05/23/2022 11:01:56 PM - TestStatus - ERROR: ### Exception Occurred
+05/23/2022 11:01:56 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/23/2022 11:01:56 PM - RegisterCoursesPage - INFO: Element not found with locator: // h4[contains(text(), 'JavaScript for beginners')], , using locator type: xpath
+05/23/2022 11:01:56 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/23/2022 11:01:56 PM - RegisterCoursesPage - ERROR: Failed to get text on element 
+05/23/2022 11:01:56 PM - Util - INFO: Actual Text From Application Web UI --> :: None
+05/23/2022 11:01:56 PM - Util - INFO: Expected Text From Application Web UI --> :: JavaScript for beginners
+05/23/2022 11:02:15 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login'], using locator type: xpath
+05/23/2022 11:02:15 PM - LoginPage - INFO: Cannot click on the element with: //a[@href='https://courses.letskodeit.com/login']    locator type: xpath
+05/23/2022 11:02:18 PM - LoginPage - INFO: Element not found with locator: email, , using locator type: id
+05/23/2022 11:02:18 PM - LoginPage - INFO: Cannot Send Keys to element with locator: email  locatorType: id
+05/23/2022 11:02:21 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/23/2022 11:02:21 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/23/2022 11:02:24 PM - LoginPage - INFO: Element not found with locator: //input[@type="submit"], , using locator type: xpath
+05/23/2022 11:02:24 PM - LoginPage - INFO: Cannot click on the element with: //input[@type="submit"]    locator type: xpath
+05/23/2022 11:02:27 PM - RegisterCoursesPage - INFO: Element not found with locator: //a[@href='/courses'], , using locator type: xpath
+05/23/2022 11:02:27 PM - RegisterCoursesPage - INFO: Cannot click on the element with: //a[@href='/courses']    locator type: xpath
+05/23/2022 11:02:30 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@id='search'], , using locator type: xpath
+05/23/2022 11:02:30 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/23/2022 11:02:33 PM - RegisterCoursesPage - INFO: Element not found with locator: //*[@id='search']//button, , using locator type: xpath
+05/23/2022 11:02:33 PM - RegisterCoursesPage - INFO: Cannot click on the element with: //*[@id='search']//button    locator type: xpath
+05/23/2022 11:02:33 PM - Util - INFO: Wait :: '2' seconds for 
+05/23/2022 11:02:35 PM - RegisterCoursesPage - INFO: Title of Website found ::  Let's Kode It – Anyone Can Code
+05/23/2022 11:02:35 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It – Anyone Can Code
+05/23/2022 11:02:35 PM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/23/2022 11:02:35 PM - Util - INFO: ### VERIFICATION DOES NOT CONTAIN TEXT !!!
+05/23/2022 11:02:35 PM - TestStatus - INFO: #### VERIFICATION FAILED  ::  Verify Page Title is 'All Courses'  ::
+05/23/2022 11:02:35 PM - TestStatus - INFO: Screenshot saved to directory:  /Users/andrespreciado/Code/test-framework/base/../screenshots/Verify Page Title is 'All Courses'_1653372155321.png
+05/23/2022 11:02:35 PM - RegisterCoursesPage - INFO: In Locator Condition
+05/23/2022 11:02:38 PM - RegisterCoursesPage - INFO: Element not found with locator: // h4[contains(text(), 'JavaScript for beginners')], , using locator type: xpath
+05/23/2022 11:02:38 PM - RegisterCoursesPage - DEBUG: Before finding text
+05/23/2022 11:02:38 PM - RegisterCoursesPage - ERROR: Failed to get text on element 
+05/23/2022 11:02:38 PM - Util - INFO: Actual Text From Application Web UI --> :: None
+05/23/2022 11:02:38 PM - Util - INFO: Expected Text From Application Web UI --> :: JavaScript for beginners
+05/23/2022 11:06:41 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login'], using locator type: xpath
+05/23/2022 11:06:41 PM - LoginPage - INFO: Cannot click on the element with: //a[@href='https://courses.letskodeit.com/login']    locator type: xpath
+05/23/2022 11:06:44 PM - LoginPage - INFO: Element not found with locator: email, , using locator type: id
+05/23/2022 11:06:44 PM - LoginPage - INFO: Cannot Send Keys to element with locator: email  locatorType: id
+05/23/2022 11:06:47 PM - LoginPage - INFO: Element not found with locator: password, , using locator type: id
+05/23/2022 11:06:47 PM - LoginPage - INFO: Cannot Send Keys to element with locator: password  locatorType: id
+05/23/2022 11:06:50 PM - LoginPage - INFO: Element not found with locator: //input[@type="submit"], , using locator type: xpath
+05/23/2022 11:06:50 PM - LoginPage - INFO: Cannot click on the element with: //input[@type="submit"]    locator type: xpath
+05/23/2022 11:06:53 PM - RegisterCoursesPage - INFO: Element not found with locator: //a[@href='/courses'], , using locator type: xpath
+05/23/2022 11:06:53 PM - RegisterCoursesPage - INFO: Cannot click on the element with: //a[@href='/courses']    locator type: xpath
+05/23/2022 11:06:56 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@id='search'], , using locator type: xpath
+05/23/2022 11:06:56 PM - RegisterCoursesPage - INFO: Cannot Send Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/23/2022 11:06:59 PM - RegisterCoursesPage - INFO: Element not found with locator: //*[@id='search']//button, , using locator type: xpath
+05/23/2022 11:06:59 PM - RegisterCoursesPage - INFO: Cannot click on the element with: //*[@id='search']//button    locator type: xpath
+05/23/2022 11:06:59 PM - Util - INFO: Wait :: '2' seconds for 
+05/23/2022 11:31:49 PM - LoginPage - INFO: Element Found with locator: img[name="cp_close_image-2"], using locator type: css
+05/23/2022 11:31:49 PM - LoginPage - INFO: Cannot click on the element with: img[name="cp_close_image-2"]    locator type: css
+05/23/2022 11:33:01 PM - LoginPage - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login'], using locator type: xpath
+05/23/2022 11:35:22 PM - LoginPage - INFO: Cannot click on the element with: //a[@href='https://courses.letskodeit.com/login']    locator type: xpath

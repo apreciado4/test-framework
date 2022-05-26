@@ -1,0 +1,8 @@
+05/19/2022 08:22:11 PM - SeleniumDriver - INFO: Element Found with locator: //a[@href='https://courses.letskodeit.com/login']
+05/19/2022 08:22:12 PM - SeleniumDriver - INFO: Clicked on the element with: //a[@href='https://courses.letskodeit.com/login']   locator type: xpath
+05/19/2022 08:22:12 PM - SeleniumDriver - INFO: Element Found with locator: email
+05/19/2022 08:22:12 PM - SeleniumDriver - INFO: Sent Keys to element with locator: email  locatorType: id
+05/19/2022 08:22:12 PM - SeleniumDriver - INFO: Element Found with locator: password
+05/19/2022 08:22:12 PM - SeleniumDriver - INFO: Sent Keys to element with locator: password  locatorType: id
+05/19/2022 08:22:12 PM - SeleniumDriver - INFO: Element Found with locator: //input[@type="submit"]
+05/19/2022 08:22:14 PM - SeleniumDriver - INFO: Clicked on the element with: //input[@type="submit"]   locator type: xpath

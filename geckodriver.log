@@ -1,0 +1,931 @@
+1653370446149	geckodriver	INFO	Listening on 127.0.0.1:54732
+1653370762494	geckodriver	INFO	Listening on 127.0.0.1:56133
+1653370765934	geckodriver	INFO	Listening on 127.0.0.1:56155
+1653370767209	geckodriver	INFO	Listening on 127.0.0.1:56165
+1653370871841	geckodriver	INFO	Listening on 127.0.0.1:56595
+1653370872356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56596" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileWgnxn3"
+1653370875291	Marionette	INFO	Marionette enabled
+2022-05-23 22:41:15.294 plugin-container[12022:1895331] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 22:41:15.294 plugin-container[12022:1895331] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 22:41:15.325 plugin-container[12022:1895331] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 22:41:15.325 plugin-container[12022:1895331] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 22:41:15.325 plugin-container[12022:1895352] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 22:41:15.325 plugin-container[12022:1895352] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileWgnxn3/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56596/devtools/browser/58be5351-b90d-4576-a5fb-8f8ad4d09472
+1653370876543	Marionette	INFO	Listening on port 56632
+Read port: 56632
+1653370876604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1653370904876	Marionette	INFO	Stopped listening on port 56632
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653370998034	geckodriver	INFO	Listening on 127.0.0.1:57207
+1653370998554	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57208" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileJHr5nT"
+2022-05-23 22:43:18.972 plugin-container[12150:1897240] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 22:43:18.972 plugin-container[12150:1897240] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 22:43:18.975 plugin-container[12150:1897240] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 22:43:18.975 plugin-container[12150:1897240] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 22:43:18.975 plugin-container[12150:1897236] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 22:43:18.975 plugin-container[12150:1897236] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1653370998983	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileJHr5nT/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57208/devtools/browser/7bb03ab8-dc11-40f1-bacd-56b863ac76f5
+1653370999845	Marionette	INFO	Listening on port 57229
+Read port: 57229
+1653370999914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1653371025834	Marionette	INFO	Stopped listening on port 57229
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653371508250	geckodriver	INFO	Listening on 127.0.0.1:59812
+1653371508769	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59813" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileIBrVv8"
+1653371509176	Marionette	INFO	Marionette enabled
+2022-05-23 22:51:49.198 plugin-container[12689:1905993] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 22:51:49.198 plugin-container[12689:1905993] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 22:51:49.241 plugin-container[12689:1905993] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 22:51:49.241 plugin-container[12689:1905993] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 22:51:49.241 plugin-container[12689:1906027] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 22:51:49.241 plugin-container[12689:1906027] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileIBrVv8/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59813/devtools/browser/d2f54097-c0ff-4b8c-9663-95c16e8b7d61
+1653371510631	Marionette	INFO	Listening on port 59833
+Read port: 59833
+1653371510655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1653371536607	Marionette	INFO	Stopped listening on port 59833
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967298/customhighlighter138, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:731:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:699:16\nflushAllWindowsAsync@resource:///modules/sessionstore/SessionStore.jsm:2201:7\nssi_onQuitApplicationGranted/<@resource:///modules/sessionstore/SessionStore.jsm:2113:32\ntrigger@resource://gre/modules/AsyncShutdown.jsm:747:23\n_wait@resource://gre/modules/AsyncShutdown.jsm:899:15\nwait@resource://gre/modules/AsyncShutdown.jsm:880:34\nobserve@resource://gre/modules/AsyncShutdown.jsm:557:10\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2661:22\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653371744234	geckodriver	INFO	Listening on 127.0.0.1:61157
+1653371744754	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61158" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofilemzcHhf"
+1653371745095	Marionette	INFO	Marionette enabled
+2022-05-23 22:55:45.140 plugin-container[12940:1910216] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 22:55:45.141 plugin-container[12940:1910216] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 22:55:45.153 plugin-container[12940:1910216] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 22:55:45.153 plugin-container[12940:1910216] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 22:55:45.153 plugin-container[12940:1910222] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 22:55:45.153 plugin-container[12940:1910222] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofilemzcHhf/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:61158/devtools/browser/b384e8b5-7915-45e3-8a8b-9f6ef49aeb1b
+1653371745994	Marionette	INFO	Listening on port 61179
+Read port: 61179
+1653371746013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1653371772743	Marionette	INFO	Stopped listening on port 61179
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653371860442	geckodriver	INFO	Listening on 127.0.0.1:61754
+1653371860963	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61755" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileQ7f74w"
+1653371861389	Marionette	INFO	Marionette enabled
+2022-05-23 22:57:41.398 plugin-container[13083:1912471] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 22:57:41.398 plugin-container[13083:1912471] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 22:57:41.418 plugin-container[13083:1912471] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 22:57:41.418 plugin-container[13083:1912471] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 22:57:41.418 plugin-container[13083:1912469] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 22:57:41.418 plugin-container[13083:1912469] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileQ7f74w/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:61755/devtools/browser/524ef6aa-0f7a-484d-b15c-9fc74487da7b
+1653371862608	Marionette	INFO	Listening on port 61778
+Read port: 61778
+1653371862665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1653371888696	Marionette	INFO	Stopped listening on port 61778
+1653373206875	geckodriver	INFO	Listening on 127.0.0.1:51321
+1653373207396	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51322" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileov4Cyv"
+2022-05-23 23:20:08.064 plugin-container[14147:1930517] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:20:08.064 plugin-container[14147:1930517] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1653373208067	Marionette	INFO	Marionette enabled
+2022-05-23 23:20:08.127 plugin-container[14147:1930517] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:20:08.127 plugin-container[14147:1930517] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 23:20:08.127 plugin-container[14147:1930546] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:20:08.127 plugin-container[14147:1930546] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileov4Cyv/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:51322/devtools/browser/9fc31069-60f2-429a-922d-3702f8b744f5
+1653373209092	Marionette	INFO	Listening on port 51342
+Read port: 51342
+1653373209177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1653373254246	geckodriver	INFO	Listening on 127.0.0.1:51587
+1653373254765	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51588" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileHB0fec"
+1653373255158	Marionette	INFO	Marionette enabled
+2022-05-23 23:20:55.183 plugin-container[14200:1931459] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:20:55.184 plugin-container[14200:1931459] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 23:20:55.188 plugin-container[14200:1931459] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:20:55.188 plugin-container[14200:1931459] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 23:20:55.189 plugin-container[14200:1931496] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:20:55.189 plugin-container[14200:1931496] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileHB0fec/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:51588/devtools/browser/e03bb1c9-3d2f-478b-be81-75c77e4e1b5d
+1653373256369	Marionette	INFO	Listening on port 51611
+Read port: 51611
+1653373256435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1653373282025	Marionette	INFO	Stopped listening on port 51611
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653373477506	geckodriver	INFO	Listening on 127.0.0.1:52626
+1653373478025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52627" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofilet7WTAX"
+2022-05-23 23:24:38.380 plugin-container[14369:1934067] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:24:38.380 plugin-container[14369:1934067] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 23:24:38.382 plugin-container[14369:1934067] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:24:38.383 plugin-container[14369:1934067] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 23:24:38.383 plugin-container[14369:1934072] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:24:38.383 plugin-container[14369:1934072] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1653373478384	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofilet7WTAX/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:52627/devtools/browser/3bc95efa-74b3-4a2d-b6f1-b42d0b819377
+1653373479270	Marionette	INFO	Listening on port 52644
+Read port: 52644
+1653373479281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1653373508085	Marionette	INFO	Stopped listening on port 52644
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+[ERROR osclientcerts_static] ThreadId(5) C_FindObjectsInit: CKR_ARGUMENTS_BAD: ExternalError at security/manager/ssl/osclientcerts/src/backend_macos.rs:921 (-25300)
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1653373794703	Marionette	INFO	Stopped listening on port 51342
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653375099309	geckodriver	INFO	Listening on 127.0.0.1:59561
+1653375099829	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59562" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileLJOhXn"
+1653375100196	Marionette	INFO	Marionette enabled
+2022-05-23 23:51:40.214 plugin-container[15528:1952160] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:51:40.214 plugin-container[15528:1952160] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 23:51:40.222 plugin-container[15528:1952160] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:51:40.222 plugin-container[15528:1952160] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-23 23:51:40.222 plugin-container[15528:1952158] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-23 23:51:40.222 plugin-container[15528:1952158] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileLJOhXn/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59562/devtools/browser/f41c474f-6e33-4e59-8ca6-0339240ed0ca
+1653375101030	Marionette	INFO	Listening on port 59586
+Read port: 59586
+1653375101087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1653375134140	Marionette	INFO	Stopped listening on port 59586
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653378668106	geckodriver	INFO	Listening on 127.0.0.1:53490
+1653378668551	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53491" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileZyKENm"
+1653378669263	Marionette	INFO	Marionette enabled
+2022-05-24 00:51:09.304 plugin-container[20249:2015960] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 00:51:09.304 plugin-container[20249:2015960] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-24 00:51:09.337 plugin-container[20249:2015960] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 00:51:09.337 plugin-container[20249:2015960] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-24 00:51:09.337 plugin-container[20249:2015989] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 00:51:09.337 plugin-container[20249:2015989] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileZyKENm/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53491/devtools/browser/e363862f-86eb-476a-9381-be12e4661b99
+1653378670208	Marionette	INFO	Listening on port 53513
+Read port: 53513
+1653378670237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1653378698523	Marionette	INFO	Stopped listening on port 53513
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653378800699	geckodriver	INFO	Listening on 127.0.0.1:54126
+1653378800703	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54127" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofile4OpvWJ"
+2022-05-24 00:53:20.980 plugin-container[20349:2017632] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 00:53:20.980 plugin-container[20349:2017632] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1653378800984	Marionette	INFO	Marionette enabled
+2022-05-24 00:53:20.984 plugin-container[20349:2017632] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 00:53:20.984 plugin-container[20349:2017632] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-24 00:53:20.984 plugin-container[20349:2017630] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 00:53:20.984 plugin-container[20349:2017630] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofile4OpvWJ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54127/devtools/browser/2dff74bb-d18a-4708-8b93-9149d659896b
+1653378801667	Marionette	INFO	Listening on port 54141
+Read port: 54141
+1653378801752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1653378836030	Marionette	INFO	Stopped listening on port 54141
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653378894405	geckodriver	INFO	Listening on 127.0.0.1:54588
+1653378894409	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54589" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofilevjc59L"
+2022-05-24 00:54:54.700 plugin-container[20426:2018865] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 00:54:54.700 plugin-container[20426:2018865] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-24 00:54:54.703 plugin-container[20426:2018865] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 00:54:54.703 plugin-container[20426:2018865] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-24 00:54:54.703 plugin-container[20426:2018870] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 00:54:54.703 plugin-container[20426:2018870] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1653378894705	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofilevjc59L/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54589/devtools/browser/bbe94fbb-f071-438f-912e-77414c2bb32a
+1653378895584	Marionette	INFO	Listening on port 54605
+Read port: 54605
+1653378895671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1653378924036	Marionette	INFO	Stopped listening on port 54605
+1653379113325	geckodriver	INFO	Listening on 127.0.0.1:55562
+1653379113331	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55563" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileyk9IjB"
+2022-05-24 00:58:33.613 plugin-container[20602:2021156] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 00:58:33.613 plugin-container[20602:2021156] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1653379113615	Marionette	INFO	Marionette enabled
+2022-05-24 00:58:33.616 plugin-container[20602:2021156] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 00:58:33.616 plugin-container[20602:2021156] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-24 00:58:33.616 plugin-container[20602:2021183] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 00:58:33.616 plugin-container[20602:2021183] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileyk9IjB/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:55563/devtools/browser/434b14d9-e56c-4438-98cb-9cceb7a5390f
+1653379114353	Marionette	INFO	Listening on port 55576
+Read port: 55576
+1653379114395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1653379143120	Marionette	INFO	Stopped listening on port 55576
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653428258658	geckodriver	INFO	Listening on 127.0.0.1:49695
+1653428259176	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49696" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileGu1KLX"
+1653428259478	Marionette	INFO	Marionette enabled
+2022-05-24 14:37:39.493 plugin-container[24170:2075354] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 14:37:39.493 plugin-container[24170:2075354] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-24 14:37:39.519 plugin-container[24170:2075354] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 14:37:39.519 plugin-container[24170:2075354] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-24 14:37:39.520 plugin-container[24170:2075382] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 14:37:39.520 plugin-container[24170:2075382] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileGu1KLX/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:49696/devtools/browser/f7c48fa5-e70e-4ca5-b66b-706bb07eee31
+1653428260233	Marionette	INFO	Listening on port 49719
+Read port: 49719
+1653428260335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+1653428282507	Marionette	INFO	Stopped listening on port 49719
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1653428282634	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653428360972	geckodriver	INFO	Listening on 127.0.0.1:50245
+1653428361488	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50246" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileoqKNN8"
+1653428361811	Marionette	INFO	Marionette enabled
+2022-05-24 14:39:21.815 plugin-container[24271:2077179] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 14:39:21.815 plugin-container[24271:2077179] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-24 14:39:21.830 plugin-container[24271:2077179] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 14:39:21.830 plugin-container[24271:2077179] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-24 14:39:21.830 plugin-container[24271:2077213] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 14:39:21.830 plugin-container[24271:2077213] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileoqKNN8/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:50246/devtools/browser/5160218e-682a-49c5-963e-1e7fc3cd244b
+1653428362627	Marionette	INFO	Listening on port 50267
+Read port: 50267
+1653428362645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80024, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80024, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80024, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80024, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80024, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80024, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653428414846	Marionette	INFO	Stopped listening on port 50267
+1653428727984	geckodriver	INFO	Listening on 127.0.0.1:52022
+1653428728503	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52023" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofilet7nPXV"
+2022-05-24 14:45:28.799 plugin-container[24579:2081521] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 14:45:28.799 plugin-container[24579:2081521] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-24 14:45:28.802 plugin-container[24579:2081521] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 14:45:28.802 plugin-container[24579:2081521] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-24 14:45:28.803 plugin-container[24579:2081527] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 14:45:28.803 plugin-container[24579:2081527] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1653428728804	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofilet7nPXV/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:52023/devtools/browser/6974cccc-82be-41f0-8dd6-1f1fca41ae89
+1653428729611	Marionette	INFO	Listening on port 52048
+Read port: 52048
+1653428729658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80024, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80024, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80024, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80024, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80024, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80024, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653428780575	Marionette	INFO	Stopped listening on port 52048
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967301/customhighlighter88, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:731:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:699:16\nflushAllWindowsAsync@resource:///modules/sessionstore/SessionStore.jsm:2201:7\nssi_onQuitApplicationGranted/<@resource:///modules/sessionstore/SessionStore.jsm:2113:32\ntrigger@resource://gre/modules/AsyncShutdown.jsm:747:23\n_wait@resource://gre/modules/AsyncShutdown.jsm:899:15\nwait@resource://gre/modules/AsyncShutdown.jsm:880:34\nobserve@resource://gre/modules/AsyncShutdown.jsm:557:10\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2661:22\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653429132507	geckodriver	INFO	Listening on 127.0.0.1:54192
+1653429133027	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54193" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofilev1h3W0"
+1653429133355	Marionette	INFO	Marionette enabled
+2022-05-24 14:52:13.372 plugin-container[24877:2085962] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 14:52:13.372 plugin-container[24877:2085962] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-24 14:52:13.377 plugin-container[24877:2085962] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 14:52:13.378 plugin-container[24877:2085962] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-24 14:52:13.378 plugin-container[24877:2085992] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 14:52:13.378 plugin-container[24877:2085992] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofilev1h3W0/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54193/devtools/browser/e9d9eb49-53ab-4686-b7a3-bc95b7147973
+1653429134173	Marionette	INFO	Listening on port 54216
+Read port: 54216
+1653429134182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80024, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80024, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80024, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80024, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80024, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80024, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80024, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80024, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://c.paypal.com/da/r/fb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1653429163458	Marionette	INFO	Stopped listening on port 54216
+JavaScript error: resource://autofill/FormAutofillPrompter.jsm, line 521: TypeError: browser is null
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653459203539	geckodriver	INFO	Listening on 127.0.0.1:59131
+1653459204032	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59132" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileSbVQpx"
+1653459204723	Marionette	INFO	Marionette enabled
+2022-05-24 23:13:24.870 plugin-container[38090:2288345] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 23:13:24.871 plugin-container[38090:2288345] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-24 23:13:25.072 plugin-container[38090:2288345] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 23:13:25.073 plugin-container[38090:2288345] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-24 23:13:25.075 plugin-container[38090:2288370] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-24 23:13:25.075 plugin-container[38090:2288370] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileSbVQpx/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59132/devtools/browser/39ee91e2-b500-4705-9455-8ead07b4d7f6
+1653459206172	Marionette	INFO	Listening on port 59146
+Read port: 59146
+1653459206224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://c.paypal.com/da/r/fb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1653459250912	Marionette	INFO	Stopped listening on port 59146
+JavaScript error: resource://autofill/FormAutofillPrompter.jsm, line 521: TypeError: browser is null
+1653502581582	geckodriver	INFO	Listening on 127.0.0.1:62457
+1653502582095	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62458" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileGPR9FI"
+1653502582540	Marionette	INFO	Marionette enabled
+2022-05-25 11:16:22.597 plugin-container[41433:2350567] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:16:22.597 plugin-container[41433:2350567] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 11:16:22.632 plugin-container[41433:2350567] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:16:22.632 plugin-container[41433:2350567] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 11:16:22.633 plugin-container[41433:2350572] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:16:22.633 plugin-container[41433:2350572] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileGPR9FI/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62458/devtools/browser/ebe00a0e-5783-4de1-a73e-c3c2a09b6de9
+1653502583504	Marionette	INFO	Listening on port 62491
+Read port: 62491
+1653502583571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653502613422	Marionette	INFO	Stopped listening on port 62491
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653502731315	geckodriver	INFO	Listening on 127.0.0.1:62655
+1653502731831	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62656" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileooNYkX"
+2022-05-25 11:18:52.163 plugin-container[41573:2352467] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:18:52.163 plugin-container[41573:2352467] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1653502732163	Marionette	INFO	Marionette enabled
+2022-05-25 11:18:52.191 plugin-container[41573:2352467] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:18:52.191 plugin-container[41573:2352467] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 11:18:52.191 plugin-container[41573:2352494] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:18:52.191 plugin-container[41573:2352494] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileooNYkX/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62656/devtools/browser/49c34120-695b-4a01-956a-fc7f6b88ecfb
+1653502732876	Marionette	INFO	Listening on port 62669
+Read port: 62669
+1653502732988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653502759492	Marionette	INFO	Stopped listening on port 62669
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653502832392	geckodriver	INFO	Listening on 127.0.0.1:62803
+1653502832909	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62804" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileDxt0xQ"
+2022-05-25 11:20:33.216 plugin-container[41673:2353922] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:20:33.217 plugin-container[41673:2353922] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1653502833218	Marionette	INFO	Marionette enabled
+2022-05-25 11:20:33.220 plugin-container[41673:2353922] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:20:33.220 plugin-container[41673:2353922] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 11:20:33.220 plugin-container[41673:2353951] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:20:33.220 plugin-container[41673:2353951] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileDxt0xQ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62804/devtools/browser/bda09a59-4e65-482c-b355-fe772b80d398
+1653502833936	Marionette	INFO	Listening on port 62816
+Read port: 62816
+1653502833959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653502857147	Marionette	INFO	Stopped listening on port 62816
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653502960826	geckodriver	INFO	Listening on 127.0.0.1:62996
+1653502961343	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62997" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileAA3w4q"
+2022-05-25 11:22:41.666 plugin-container[41774:2355466] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:22:41.667 plugin-container[41774:2355466] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 11:22:41.670 plugin-container[41774:2355466] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:22:41.670 plugin-container[41774:2355466] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 11:22:41.670 plugin-container[41774:2355492] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:22:41.670 plugin-container[41774:2355492] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1653502961671	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileAA3w4q/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62997/devtools/browser/a2138cbf-1025-4bd0-98da-9577ede52891
+1653502962378	Marionette	INFO	Listening on port 63027
+Read port: 63027
+1653502962398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653503031142	Marionette	INFO	Stopped listening on port 63027
+1653503115770	geckodriver	INFO	Listening on 127.0.0.1:63192
+1653503116287	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63193" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileG1wrq7"
+1653503116615	Marionette	INFO	Marionette enabled
+2022-05-25 11:25:16.650 plugin-container[41898:2357333] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:25:16.650 plugin-container[41898:2357333] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 11:25:16.656 plugin-container[41898:2357333] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:25:16.656 plugin-container[41898:2357333] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 11:25:16.656 plugin-container[41898:2357336] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:25:16.656 plugin-container[41898:2357336] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileG1wrq7/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:63193/devtools/browser/3609a1bf-67fd-4204-937a-f2926544ec93
+1653503117525	Marionette	INFO	Listening on port 63208
+Read port: 63208
+1653503117540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://c.paypal.com/da/r/fb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1653503163890	Marionette	INFO	Stopped listening on port 63208
+JavaScript error: resource://autofill/FormAutofillPrompter.jsm, line 521: TypeError: browser is null
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653503566874	geckodriver	INFO	Listening on 127.0.0.1:63780
+1653503567397	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63781" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofile4wnDxF"
+1653503568094	Marionette	INFO	Marionette enabled
+2022-05-25 11:32:48.148 plugin-container[42275:2363744] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:32:48.148 plugin-container[42275:2363744] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 11:32:48.160 plugin-container[42275:2363744] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:32:48.160 plugin-container[42275:2363744] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 11:32:48.161 plugin-container[42275:2363750] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:32:48.161 plugin-container[42275:2363750] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofile4wnDxF/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:63781/devtools/browser/0ab17d59-24e4-4cdc-acf4-3dd83c011332
+1653503568857	Marionette	INFO	Listening on port 63795
+Read port: 63795
+1653503568867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://c.paypal.com/da/r/fb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1653503612977	Marionette	INFO	Stopped listening on port 63795
+JavaScript error: resource://autofill/FormAutofillPrompter.jsm, line 521: TypeError: browser is null
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653503833339	geckodriver	INFO	Listening on 127.0.0.1:64396
+1653503833859	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64397" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofilelVBkeu"
+1653503834502	Marionette	INFO	Marionette enabled
+2022-05-25 11:37:14.513 plugin-container[42585:2369426] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:37:14.514 plugin-container[42585:2369426] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 11:37:14.522 plugin-container[42585:2369426] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:37:14.522 plugin-container[42585:2369426] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 11:37:14.523 plugin-container[42585:2369433] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 11:37:14.523 plugin-container[42585:2369433] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofilelVBkeu/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:64397/devtools/browser/3e8eb6ec-181d-4a82-9467-cdf009e7ab30
+1653503835288	Marionette	INFO	Listening on port 64410
+Read port: 64410
+1653503835332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://letskodeit.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.4, line 2: ReferenceError: elementorModules is not defined
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://c.paypal.com/da/r/fb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1653503879395	Marionette	INFO	Stopped listening on port 64410
+JavaScript error: resource://autofill/FormAutofillPrompter.jsm, line 521: TypeError: browser is null
+1653547373594	geckodriver	INFO	Listening on 127.0.0.1:61752
+1653547374087	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61753" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileT4GPaV"
+1653547374599	Marionette	INFO	Marionette enabled
+2022-05-25 23:42:54.621 plugin-container[64951:2691082] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 23:42:54.621 plugin-container[64951:2691082] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 23:42:54.708 plugin-container[64951:2691082] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 23:42:54.708 plugin-container[64951:2691082] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 23:42:54.708 plugin-container[64951:2691088] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 23:42:54.708 plugin-container[64951:2691088] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileT4GPaV/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:61753/devtools/browser/54ae635e-0eac-4234-b5f7-891c6d069f39
+1653547375342	Marionette	INFO	Listening on port 61767
+Read port: 61767
+1653547375367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653547376762	Marionette	INFO	Stopped listening on port 61767
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1653547918194	geckodriver	INFO	Listening on 127.0.0.1:62565
+1653547918711	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62566" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileBSKdG9"
+1653547919311	Marionette	INFO	Marionette enabled
+2022-05-25 23:51:59.405 plugin-container[65796:2701639] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 23:51:59.405 plugin-container[65796:2701639] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 23:51:59.408 plugin-container[65796:2701639] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 23:51:59.408 plugin-container[65796:2701639] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 23:51:59.408 plugin-container[65796:2701671] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 23:51:59.408 plugin-container[65796:2701671] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileBSKdG9/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62566/devtools/browser/c4a675b7-c89d-4869-a588-a08aa3d42697
+1653547920185	Marionette	INFO	Listening on port 62579
+Read port: 62579
+1653547920289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653547942151	Marionette	INFO	Stopped listening on port 62579
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653547942541	geckodriver	INFO	Listening on 127.0.0.1:62707
+1653547943046	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62708" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofilezMV1kN"
+2022-05-25 23:52:23.333 plugin-container[65816:2702205] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 23:52:23.333 plugin-container[65816:2702205] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 23:52:23.335 plugin-container[65816:2702205] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 23:52:23.335 plugin-container[65816:2702205] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 23:52:23.335 plugin-container[65816:2702203] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 23:52:23.335 plugin-container[65816:2702203] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1653547943342	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofilezMV1kN/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62708/devtools/browser/e605df2f-2d5f-416d-99b4-176f286bd00c
+1653547944006	Marionette	INFO	Listening on port 62721
+Read port: 62721
+1653547944087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://c.paypal.com/da/r/fb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://faye.getstream.io/faye?message=%5B%7B%22channel%22%3A%22%2Fmeta%2Fconnect%22%2C%22clientId%22%3A%221-3b714d80-f05d-4cf1-8963-e38c4dc308c4%22%2C%22connectionType%22%3A%22callback-polling%22%2C%22id%22%3A%224%22%7D%5D&jsonp=__jsonp3__, line 1: ReferenceError: __jsonp3__ is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://faye.getstream.io/faye?message=%5B%7B%22channel%22%3A%22%2Fmeta%2Fconnect%22%2C%22clientId%22%3A%221-e7f739ab-9d1f-4b67-8b5b-8e0db667b60f%22%2C%22connectionType%22%3A%22callback-polling%22%2C%22id%22%3A%224%22%7D%5D&jsonp=__jsonp3__, line 1: ReferenceError: __jsonp3__ is not defined
+JavaScript warning: https://c.paypal.com/da/r/fb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1653548039219	Marionette	INFO	Stopped listening on port 62721
+JavaScript error: resource://autofill/FormAutofillPrompter.jsm, line 521: TypeError: browser is null
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1653548039609	geckodriver	INFO	Listening on 127.0.0.1:62937
+1653548040120	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62938" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileC3krvs"
+2022-05-25 23:54:00.382 plugin-container[65883:2703424] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 23:54:00.382 plugin-container[65883:2703424] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1653548040385	Marionette	INFO	Marionette enabled
+2022-05-25 23:54:00.397 plugin-container[65883:2703424] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 23:54:00.397 plugin-container[65883:2703424] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-25 23:54:00.398 plugin-container[65883:2703429] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-25 23:54:00.398 plugin-container[65883:2703429] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/z1/_w033pmj3r13nlm2z9n1cjfc0000gn/T/rust_mozprofileC3krvs/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62938/devtools/browser/db38f6dc-892e-4c4d-9934-226edb3fcb51
+1653548041165	Marionette	INFO	Listening on port 62952
+Read port: 62952
+1653548041265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://courses.letskodeit.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/review.js?v=V3.1.80026, line 33: unreachable code after return statement
+JavaScript warning: https://d235vmrai5heq2.cloudfront.net/js/default/paypal.js?v=V3.1.80026, line 564: unreachable code after return statement
+1653548069346	Marionette	INFO	Stopped listening on port 62952
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+

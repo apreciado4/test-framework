@@ -1,0 +1,262 @@
+05/25/2022 11:36:31 AM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://letskodeit.com :: Browser - chrome :: Version :: 102.0.5005.61 :: platform :: mac os x
+05/25/2022 11:36:33 AM - LoginPage - INFO: Element Found with locator: //div[@class='ast-button'], using locator type: xpath
+05/25/2022 11:36:35 AM - LoginPage - INFO: Clicked on the element with: //div[@class='ast-button']   locator type: xpath
+05/25/2022 11:36:37 AM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:36:37 AM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:36:39 AM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:36:39 AM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:36:39 AM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:36:40 AM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:36:42 AM - Util - INFO: Wait :: '3' seconds for 
+05/25/2022 11:36:45 AM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/25/2022 11:36:47 AM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/25/2022 11:36:47 AM - Util - INFO: Wait :: '2' seconds for 
+05/25/2022 11:36:49 AM - RegisterCoursesPage - INFO: Element Found with locator: //input[@id='search'], using locator type: xpath
+05/25/2022 11:36:49 AM - RegisterCoursesPage - INFO: Sent Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/25/2022 11:36:49 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:36:50 AM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/25/2022 11:36:50 AM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/25/2022 11:36:50 AM - Util - INFO: Wait :: '2' seconds for 
+05/25/2022 11:36:52 AM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/25/2022 11:36:52 AM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/25/2022 11:36:52 AM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/25/2022 11:36:52 AM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:36:52 AM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/25/2022 11:36:52 AM - RegisterCoursesPage - INFO: In Locator Condition
+05/25/2022 11:36:52 AM - RegisterCoursesPage - INFO: Element Found with locator: // h4[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/25/2022 11:36:52 AM - RegisterCoursesPage - DEBUG: Before finding text
+05/25/2022 11:36:52 AM - RegisterCoursesPage - DEBUG: After finding element, size is 24
+05/25/2022 11:36:52 AM - Util - INFO: Actual Text From Application Web UI --> :: JavaScript for beginners
+05/25/2022 11:36:52 AM - Util - INFO: Expected Text From Application Web UI --> :: JavaScript for beginners
+05/25/2022 11:36:52 AM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:36:52 AM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title Link is Present  ::
+05/25/2022 11:36:52 AM - RegisterCoursesPage - INFO: Element Found with locator: //*[@href='/courses/javascript-for-beginners']/parent::div, using locator type: xpath
+05/25/2022 11:36:53 AM - RegisterCoursesPage - INFO: Clicked on the element with: //*[@href='/courses/javascript-for-beginners']/parent::div   locator type: xpath
+05/25/2022 11:36:56 AM - RegisterCoursesPage - INFO: Element Found with locator: //button[text()='Enroll in Course'], using locator type: xpath
+05/25/2022 11:36:59 AM - RegisterCoursesPage - INFO: Clicked on the element with: //button[text()='Enroll in Course']   locator type: xpath
+05/25/2022 11:36:59 AM - Util - INFO: Wait :: '2' seconds for 
+05/25/2022 11:37:01 AM - RegisterCoursesPage - INFO: Element Found with locator: //*[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/25/2022 11:37:01 AM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:37:01 AM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title is Present  ::
+05/25/2022 11:37:01 AM - Util - INFO: Wait :: '2' seconds for 
+05/25/2022 11:37:03 AM - RegisterCoursesPage - INFO: Element Found with locator: #card-number > div > iframe, using locator type: css
+05/25/2022 11:37:03 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:37:04 AM - RegisterCoursesPage - INFO: Element Found with locator: cardnumber, using locator type: name
+05/25/2022 11:37:04 AM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cardnumber  locatorType: name
+05/25/2022 11:37:04 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:37:05 AM - RegisterCoursesPage - INFO: Element Found with locator: #card-expiry > div > iframe, using locator type: css
+05/25/2022 11:37:05 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:37:06 AM - RegisterCoursesPage - INFO: Element Found with locator: exp-date, using locator type: name
+05/25/2022 11:37:06 AM - RegisterCoursesPage - INFO: Sent Keys to element with locator: exp-date  locatorType: name
+05/25/2022 11:37:06 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:37:07 AM - RegisterCoursesPage - INFO: Element Found with locator: #card-cvc > div > iframe, using locator type: css
+05/25/2022 11:37:07 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:37:08 AM - RegisterCoursesPage - INFO: Element Found with locator: cvc, using locator type: name
+05/25/2022 11:37:08 AM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cvc  locatorType: name
+05/25/2022 11:37:08 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:37:09 AM - RegisterCoursesPage - INFO: Element Found with locator: button.zen-subscribe.sp-buy, using locator type: css
+05/25/2022 11:37:09 AM - RegisterCoursesPage - INFO: Clicked on the element with: button.zen-subscribe.sp-buy   locator type: css
+05/25/2022 11:37:09 AM - Util - INFO: Wait :: '3' seconds for 
+05/25/2022 11:37:13 AM - RegisterCoursesPage - INFO: Element Found with locator: div.has-error.card-errors span, using locator type: css
+05/25/2022 11:37:13 AM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:37:13 AM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Invalid Enrollment  ::
+05/25/2022 11:37:13 AM - TestStatus - INFO: ::  Test Invalid Enrollment  ::  ### TEST SUCCESSFUL ###
+05/25/2022 11:37:17 AM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://letskodeit.com :: Browser - firefox :: Version :: 100.0.2 :: platform :: mac
+05/25/2022 11:37:19 AM - LoginPage - INFO: Element Found with locator: //div[@class='ast-button'], using locator type: xpath
+05/25/2022 11:37:21 AM - LoginPage - INFO: Clicked on the element with: //div[@class='ast-button']   locator type: xpath
+05/25/2022 11:37:23 AM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:37:23 AM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:37:25 AM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:37:25 AM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:37:25 AM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:37:25 AM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:37:27 AM - Util - INFO: Wait :: '3' seconds for 
+05/25/2022 11:37:30 AM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/25/2022 11:37:32 AM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/25/2022 11:37:32 AM - Util - INFO: Wait :: '2' seconds for 
+05/25/2022 11:37:34 AM - RegisterCoursesPage - INFO: Element Found with locator: //input[@id='search'], using locator type: xpath
+05/25/2022 11:37:34 AM - RegisterCoursesPage - INFO: Sent Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/25/2022 11:37:34 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:37:35 AM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/25/2022 11:37:36 AM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/25/2022 11:37:36 AM - Util - INFO: Wait :: '2' seconds for 
+05/25/2022 11:37:38 AM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/25/2022 11:37:38 AM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/25/2022 11:37:38 AM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/25/2022 11:37:38 AM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:37:38 AM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/25/2022 11:37:38 AM - RegisterCoursesPage - INFO: In Locator Condition
+05/25/2022 11:37:38 AM - RegisterCoursesPage - INFO: Element Found with locator: // h4[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/25/2022 11:37:38 AM - RegisterCoursesPage - DEBUG: Before finding text
+05/25/2022 11:37:38 AM - RegisterCoursesPage - DEBUG: After finding element, size is 24
+05/25/2022 11:37:38 AM - Util - INFO: Actual Text From Application Web UI --> :: JavaScript for beginners
+05/25/2022 11:37:38 AM - Util - INFO: Expected Text From Application Web UI --> :: JavaScript for beginners
+05/25/2022 11:37:38 AM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:37:38 AM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title Link is Present  ::
+05/25/2022 11:37:38 AM - RegisterCoursesPage - INFO: Element Found with locator: //*[@href='/courses/javascript-for-beginners']/parent::div, using locator type: xpath
+05/25/2022 11:37:40 AM - RegisterCoursesPage - INFO: Clicked on the element with: //*[@href='/courses/javascript-for-beginners']/parent::div   locator type: xpath
+05/25/2022 11:37:42 AM - RegisterCoursesPage - INFO: Element Found with locator: //button[text()='Enroll in Course'], using locator type: xpath
+05/25/2022 11:37:45 AM - RegisterCoursesPage - INFO: Clicked on the element with: //button[text()='Enroll in Course']   locator type: xpath
+05/25/2022 11:37:45 AM - Util - INFO: Wait :: '2' seconds for 
+05/25/2022 11:37:47 AM - RegisterCoursesPage - INFO: Element Found with locator: //*[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/25/2022 11:37:47 AM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:37:47 AM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title is Present  ::
+05/25/2022 11:37:47 AM - Util - INFO: Wait :: '2' seconds for 
+05/25/2022 11:37:49 AM - RegisterCoursesPage - INFO: Element Found with locator: #card-number > div > iframe, using locator type: css
+05/25/2022 11:37:49 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:37:50 AM - RegisterCoursesPage - INFO: Element Found with locator: cardnumber, using locator type: name
+05/25/2022 11:37:50 AM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cardnumber  locatorType: name
+05/25/2022 11:37:50 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:37:51 AM - RegisterCoursesPage - INFO: Element Found with locator: #card-expiry > div > iframe, using locator type: css
+05/25/2022 11:37:51 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:37:52 AM - RegisterCoursesPage - INFO: Element Found with locator: exp-date, using locator type: name
+05/25/2022 11:37:53 AM - RegisterCoursesPage - INFO: Sent Keys to element with locator: exp-date  locatorType: name
+05/25/2022 11:37:53 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:37:54 AM - RegisterCoursesPage - INFO: Element Found with locator: #card-cvc > div > iframe, using locator type: css
+05/25/2022 11:37:54 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:37:55 AM - RegisterCoursesPage - INFO: Element Found with locator: cvc, using locator type: name
+05/25/2022 11:37:55 AM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cvc  locatorType: name
+05/25/2022 11:37:55 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:37:56 AM - RegisterCoursesPage - INFO: Element Found with locator: button.zen-subscribe.sp-buy, using locator type: css
+05/25/2022 11:37:56 AM - RegisterCoursesPage - INFO: Clicked on the element with: button.zen-subscribe.sp-buy   locator type: css
+05/25/2022 11:37:56 AM - Util - INFO: Wait :: '3' seconds for 
+05/25/2022 11:37:59 AM - RegisterCoursesPage - INFO: Element Found with locator: div.has-error.card-errors span, using locator type: css
+05/25/2022 11:37:59 AM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:37:59 AM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Invalid Enrollment  ::
+05/25/2022 11:37:59 AM - TestStatus - INFO: ::  Test Invalid Enrollment  ::  ### TEST SUCCESSFUL ###
+05/25/2022 11:38:06 AM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://letskodeit.com :: Browser - msedge :: Version :: 101.0.1210.53 :: platform :: mac os x
+05/25/2022 11:38:08 AM - LoginPage - INFO: Element Found with locator: //div[@class='ast-button'], using locator type: xpath
+05/25/2022 11:38:09 AM - LoginPage - INFO: Clicked on the element with: //div[@class='ast-button']   locator type: xpath
+05/25/2022 11:38:11 AM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:38:12 AM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:38:14 AM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:38:14 AM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:38:14 AM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:38:15 AM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:38:17 AM - Util - INFO: Wait :: '3' seconds for 
+05/25/2022 11:38:20 AM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/25/2022 11:38:23 AM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/25/2022 11:38:23 AM - Util - INFO: Wait :: '2' seconds for 
+05/25/2022 11:38:25 AM - RegisterCoursesPage - INFO: Element Found with locator: //input[@id='search'], using locator type: xpath
+05/25/2022 11:38:25 AM - RegisterCoursesPage - INFO: Sent Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/25/2022 11:38:25 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:38:26 AM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/25/2022 11:38:26 AM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/25/2022 11:38:26 AM - Util - INFO: Wait :: '2' seconds for 
+05/25/2022 11:38:28 AM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/25/2022 11:38:28 AM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/25/2022 11:38:28 AM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/25/2022 11:38:28 AM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:38:28 AM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/25/2022 11:38:28 AM - RegisterCoursesPage - INFO: In Locator Condition
+05/25/2022 11:38:28 AM - RegisterCoursesPage - INFO: Element Found with locator: // h4[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/25/2022 11:38:28 AM - RegisterCoursesPage - DEBUG: Before finding text
+05/25/2022 11:38:28 AM - RegisterCoursesPage - DEBUG: After finding element, size is 24
+05/25/2022 11:38:28 AM - Util - INFO: Actual Text From Application Web UI --> :: JavaScript for beginners
+05/25/2022 11:38:28 AM - Util - INFO: Expected Text From Application Web UI --> :: JavaScript for beginners
+05/25/2022 11:38:28 AM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:38:28 AM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title Link is Present  ::
+05/25/2022 11:38:28 AM - RegisterCoursesPage - INFO: Element Found with locator: //*[@href='/courses/javascript-for-beginners']/parent::div, using locator type: xpath
+05/25/2022 11:38:31 AM - RegisterCoursesPage - INFO: Clicked on the element with: //*[@href='/courses/javascript-for-beginners']/parent::div   locator type: xpath
+05/25/2022 11:38:33 AM - RegisterCoursesPage - INFO: Element Found with locator: //button[text()='Enroll in Course'], using locator type: xpath
+05/25/2022 11:38:38 AM - RegisterCoursesPage - INFO: Clicked on the element with: //button[text()='Enroll in Course']   locator type: xpath
+05/25/2022 11:38:38 AM - Util - INFO: Wait :: '2' seconds for 
+05/25/2022 11:38:40 AM - RegisterCoursesPage - INFO: Element Found with locator: //*[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/25/2022 11:38:40 AM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:38:40 AM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title is Present  ::
+05/25/2022 11:38:40 AM - Util - INFO: Wait :: '2' seconds for 
+05/25/2022 11:38:42 AM - RegisterCoursesPage - INFO: Element Found with locator: #card-number > div > iframe, using locator type: css
+05/25/2022 11:38:42 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:38:43 AM - RegisterCoursesPage - INFO: Element Found with locator: cardnumber, using locator type: name
+05/25/2022 11:38:44 AM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cardnumber  locatorType: name
+05/25/2022 11:38:44 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:38:45 AM - RegisterCoursesPage - INFO: Element Found with locator: #card-expiry > div > iframe, using locator type: css
+05/25/2022 11:38:45 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:38:46 AM - RegisterCoursesPage - INFO: Element Found with locator: exp-date, using locator type: name
+05/25/2022 11:38:47 AM - RegisterCoursesPage - INFO: Sent Keys to element with locator: exp-date  locatorType: name
+05/25/2022 11:38:47 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:38:48 AM - RegisterCoursesPage - INFO: Element Found with locator: #card-cvc > div > iframe, using locator type: css
+05/25/2022 11:38:48 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:38:49 AM - RegisterCoursesPage - INFO: Element Found with locator: cvc, using locator type: name
+05/25/2022 11:38:49 AM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cvc  locatorType: name
+05/25/2022 11:38:49 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:38:50 AM - RegisterCoursesPage - INFO: Element Found with locator: button.zen-subscribe.sp-buy, using locator type: css
+05/25/2022 11:38:50 AM - RegisterCoursesPage - INFO: Clicked on the element with: button.zen-subscribe.sp-buy   locator type: css
+05/25/2022 11:38:50 AM - Util - INFO: Wait :: '3' seconds for 
+05/25/2022 11:38:53 AM - RegisterCoursesPage - INFO: Element Found with locator: div.has-error.card-errors span, using locator type: css
+05/25/2022 11:38:53 AM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:38:53 AM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Invalid Enrollment  ::
+05/25/2022 11:38:53 AM - TestStatus - INFO: ::  Test Invalid Enrollment  ::  ### TEST SUCCESSFUL ###
+05/25/2022 11:38:57 AM - WebDriverFactory - INFO: ####################################################################################################
+
+Selenium Testing https://letskodeit.com :: Browser - Safari :: Version :: 15.4 :: platform :: macOS
+05/25/2022 11:38:59 AM - LoginPage - INFO: Element Found with locator: //div[@class='ast-button'], using locator type: xpath
+05/25/2022 11:38:59 AM - LoginPage - INFO: Clicked on the element with: //div[@class='ast-button']   locator type: xpath
+05/25/2022 11:39:01 AM - LoginPage - INFO: Element Found with locator: email, using locator type: id
+05/25/2022 11:39:01 AM - LoginPage - INFO: Sent Keys to element with locator: email  locatorType: id
+05/25/2022 11:39:03 AM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:39:03 AM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:39:03 AM - LoginPage - INFO: Element Found with locator: password, using locator type: id
+05/25/2022 11:39:03 AM - LoginPage - INFO: Sent Keys to element with locator: password  locatorType: id
+05/25/2022 11:39:05 AM - Util - INFO: Wait :: '3' seconds for 
+05/25/2022 11:39:08 AM - RegisterCoursesPage - INFO: Element Found with locator: //a[@href='/courses'], using locator type: xpath
+05/25/2022 11:39:08 AM - RegisterCoursesPage - INFO: Clicked on the element with: //a[@href='/courses']   locator type: xpath
+05/25/2022 11:39:08 AM - Util - INFO: Wait :: '2' seconds for 
+05/25/2022 11:39:10 AM - RegisterCoursesPage - INFO: Element Found with locator: //input[@id='search'], using locator type: xpath
+05/25/2022 11:39:10 AM - RegisterCoursesPage - INFO: Sent Keys to element with locator: //input[@id='search']  locatorType: xpath
+05/25/2022 11:39:10 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:39:11 AM - RegisterCoursesPage - INFO: Element Found with locator: //button[@type='submit'], using locator type: xpath
+05/25/2022 11:39:11 AM - RegisterCoursesPage - INFO: Clicked on the element with: //button[@type='submit']   locator type: xpath
+05/25/2022 11:39:11 AM - Util - INFO: Wait :: '2' seconds for 
+05/25/2022 11:39:13 AM - RegisterCoursesPage - INFO: Title of Website found ::  All Courses
+05/25/2022 11:39:13 AM - Util - INFO: Actual Text From Application Web UI --> :: All Courses
+05/25/2022 11:39:13 AM - Util - INFO: Expected Text From Application Web UI --> :: All Courses
+05/25/2022 11:39:13 AM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:39:13 AM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Page Title is 'All Courses'  ::
+05/25/2022 11:39:13 AM - RegisterCoursesPage - INFO: In Locator Condition
+05/25/2022 11:39:13 AM - RegisterCoursesPage - INFO: Element Found with locator: // h4[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/25/2022 11:39:13 AM - RegisterCoursesPage - DEBUG: Before finding text
+05/25/2022 11:39:13 AM - RegisterCoursesPage - DEBUG: After finding element, size is 54
+05/25/2022 11:39:13 AM - Util - INFO: Actual Text From Application Web UI --> :: 
+                JavaScript for beginners
+            
+05/25/2022 11:39:13 AM - Util - INFO: Expected Text From Application Web UI --> :: JavaScript for beginners
+05/25/2022 11:39:13 AM - Util - INFO: ### VERIFICATION CONTAINS TEXT!!!
+05/25/2022 11:39:13 AM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title Link is Present  ::
+05/25/2022 11:39:13 AM - RegisterCoursesPage - INFO: Element Found with locator: //*[@href='/courses/javascript-for-beginners']/parent::div, using locator type: xpath
+05/25/2022 11:39:13 AM - RegisterCoursesPage - INFO: Clicked on the element with: //*[@href='/courses/javascript-for-beginners']/parent::div   locator type: xpath
+05/25/2022 11:39:15 AM - RegisterCoursesPage - INFO: Element Found with locator: //button[text()='Enroll in Course'], using locator type: xpath
+05/25/2022 11:39:15 AM - RegisterCoursesPage - INFO: Clicked on the element with: //button[text()='Enroll in Course']   locator type: xpath
+05/25/2022 11:39:15 AM - Util - INFO: Wait :: '2' seconds for 
+05/25/2022 11:39:17 AM - RegisterCoursesPage - INFO: Element Found with locator: //*[contains(text(), 'JavaScript for beginners')], using locator type: xpath
+05/25/2022 11:39:17 AM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:39:17 AM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Course Title is Present  ::
+05/25/2022 11:39:17 AM - Util - INFO: Wait :: '2' seconds for 
+05/25/2022 11:39:19 AM - RegisterCoursesPage - INFO: Element Found with locator: #card-number > div > iframe, using locator type: css
+05/25/2022 11:39:19 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:39:20 AM - RegisterCoursesPage - INFO: Element Found with locator: cardnumber, using locator type: name
+05/25/2022 11:39:21 AM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cardnumber  locatorType: name
+05/25/2022 11:39:21 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:39:22 AM - RegisterCoursesPage - INFO: Element Found with locator: #card-expiry > div > iframe, using locator type: css
+05/25/2022 11:39:22 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:39:23 AM - RegisterCoursesPage - INFO: Element Found with locator: exp-date, using locator type: name
+05/25/2022 11:39:23 AM - RegisterCoursesPage - INFO: Sent Keys to element with locator: exp-date  locatorType: name
+05/25/2022 11:39:23 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:39:24 AM - RegisterCoursesPage - INFO: Element Found with locator: #card-cvc > div > iframe, using locator type: css
+05/25/2022 11:39:24 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:39:25 AM - RegisterCoursesPage - INFO: Element Found with locator: cvc, using locator type: name
+05/25/2022 11:39:25 AM - RegisterCoursesPage - INFO: Sent Keys to element with locator: cvc  locatorType: name
+05/25/2022 11:39:25 AM - Util - INFO: Wait :: '1' seconds for 
+05/25/2022 11:39:26 AM - RegisterCoursesPage - INFO: Element Found with locator: button.zen-subscribe.sp-buy, using locator type: css
+05/25/2022 11:39:26 AM - RegisterCoursesPage - INFO: Clicked on the element with: button.zen-subscribe.sp-buy   locator type: css
+05/25/2022 11:39:26 AM - Util - INFO: Wait :: '3' seconds for 
+05/25/2022 11:39:29 AM - RegisterCoursesPage - INFO: Element Found with locator: div.has-error.card-errors span, using locator type: css
+05/25/2022 11:39:29 AM - RegisterCoursesPage - INFO: Element Found
+05/25/2022 11:39:29 AM - TestStatus - INFO: #### VERIFICATION SUCCESSFUL  ::  Verify Invalid Enrollment  ::
+05/25/2022 11:39:29 AM - TestStatus - INFO: ::  Test Invalid Enrollment  ::  ### TEST SUCCESSFUL ###
